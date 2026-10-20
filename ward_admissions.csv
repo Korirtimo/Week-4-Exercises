@@ -1,0 +1,1201 @@
+admission_id,age,sex,ward,admission_type,consciousness,smoking_status,heart_rate,resp_rate,length_of_stay,deteriorated
+A0001,96,Female,Elderly Care,Transfer,Voice,,60.0,20.0,4.4,0
+A0002,88,Male,Elderly Care,Emergency,Alert,Former,76.0,16.0,4.3,0
+A0003,89,Female,Stroke,Emergency,Alert,Never,64.0,23.0,4.9,0
+A0004,89,Female,Cardiology,Emergency,Voice,Never,104.0,30.0,1.8,1
+A0005,71,Male,Respiratory,Emergency,Alert,Former,93.0,19.0,6.9,1
+A0006,41,Female,General Surgery,Emergency,Alert,,81.0,18.0,3.6,0
+A0007,78,Male,Orthopaedics,Emergency,Alert,,69.0,22.0,2.5,0
+A0008,55,Female,Respiratory,Emergency,Alert,Former,64.0,16.0,3.2,0
+A0009,99,Male,Elderly Care,Emergency,Alert,,73.0,15.0,9.2,0
+A0010,79,Male,General Surgery,Emergency,Alert,Never,84.0,15.0,4.3,0
+A0011,60,Female,Orthopaedics,Elective,Alert,Current,101.0,18.0,12.1,0
+A0012,61,Male,Stroke,Emergency,Voice,,102.0,21.0,11.6,0
+A0013,53,Male,Acute Medical Unit,Transfer,Alert,Never,99.0,15.0,13.8,1
+A0014,79,Male,Elderly Care,Emergency,Alert,,83.0,18.0,6.8,0
+A0015,83,Male,Cardiology,Emergency,Alert,Never,83.0,13.0,7.9,0
+A0016,51,Male,Orthopaedics,Elective,Alert,Never,89.0,21.0,1.1,0
+A0017,79,Female,Cardiology,Emergency,Alert,,88.0,20.0,3.6,0
+A0018,41,Male,Orthopaedics,Emergency,Alert,Former,75.0,19.0,8.9,0
+A0019,76,Female,Acute Medical Unit,Elective,Alert,Never,94.0,17.0,6.6,0
+A0020,67,Female,Cardiology,Transfer,Alert,Former,89.0,15.0,1.0,0
+A0021,69,Female,Respiratory,Emergency,Alert,Former,76.0,18.0,3.8,0
+A0022,66,Female,Respiratory,Transfer,Confusion,Never,98.0,16.0,3.0,0
+A0023,78,Male,Respiratory,Emergency,Alert,,77.0,13.0,5.9,0
+A0024,70,Female,Orthopaedics,Elective,Alert,Current,82.0,18.0,3.2,0
+A0025,87,Female,Respiratory,Elective,Alert,Never,78.0,17.0,4.0,0
+A0026,46,Male,Respiratory,Emergency,Unresponsive,,109.0,25.0,4.3,1
+A0027,69,Male,Elderly Care,Emergency,Alert,Former,96.0,15.0,4.1,0
+A0028,64,Female,Elderly Care,Emergency,Confusion,Former,73.0,21.0,5.7,0
+A0029,89,Male,Elderly Care,Emergency,Voice,Never,102.0,18.0,2.6,0
+A0030,41,Female,Acute Medical Unit,Emergency,Alert,Former,81.0,17.0,4.6,0
+A0031,96,Male,Respiratory,Emergency,Alert,,75.0,18.0,6.5,1
+A0032,59,Female,General Surgery,Emergency,Alert,,68.0,17.0,1.8,0
+A0033,95,Female,Elderly Care,Emergency,Pain,,111.0,19.0,5.0,1
+A0034,54,Male,Orthopaedics,Elective,Alert,Former,80.0,19.0,9.9,0
+A0035,82,Male,Elderly Care,Emergency,Alert,Current,88.0,14.0,6.1,0
+A0036,87,Male,Elderly Care,Emergency,Alert,,89.0,20.0,6.3,1
+A0037,50,Female,General Surgery,Emergency,Alert,Former,105.0,12.0,1.8,0
+A0038,77,Male,Elderly Care,Emergency,Alert,Never,104.0,20.0,13.0,0
+A0039,80,Female,Acute Medical Unit,Emergency,Alert,Former,97.0,15.0,2.6,0
+A0040,81,Male,Orthopaedics,Emergency,Alert,Current,97.0,16.0,4.9,0
+A0041,87,Female,Elderly Care,Emergency,Voice,Current,126.0,15.0,3.5,1
+A0042,98,Female,Stroke,Emergency,Alert,Former,90.0,17.0,4.7,0
+A0043,45,Female,Cardiology,Emergency,Confusion,,100.0,19.0,11.2,0
+A0044,69,Female,Orthopaedics,Emergency,Alert,,93.0,19.0,7.8,0
+A0045,75,Female,Elderly Care,Emergency,Alert,Never,77.0,20.0,60.3,0
+A0046,84,Male,Respiratory,,Unresponsive,,110.0,21.0,7.9,1
+A0047,74,Male,Acute Medical Unit,Emergency,Alert,,87.0,17.0,14.0,0
+A0048,80,Male,Orthopaedics,Elective,Alert,Former,88.0,18.0,1.3,0
+A0049,73,Male,Elderly Care,Emergency,Alert,Never,88.0,18.0,1.7,0
+A0050,81,Female,Stroke,Emergency,Confusion,Former,90.0,22.0,4.6,0
+A0051,87,Male,Stroke,Emergency,Alert,Former,95.0,18.0,2.0,0
+A0052,96,Male,Elderly Care,Transfer,Voice,Never,82.0,17.0,9.1,0
+A0053,56,Female,Respiratory,Emergency,Alert,,91.0,19.0,3.3,0
+A0054,66,Male,Stroke,Elective,Pain,Never,93.0,16.0,5.2,0
+A0055,64,Female,Acute Medical Unit,,Confusion,Current,64.0,15.0,5.3,0
+A0056,97,Female,Elderly Care,Emergency,Alert,Never,66.0,16.0,7.3,0
+A0057,73,Female,Orthopaedics,Elective,Alert,Never,84.0,17.0,7.5,0
+A0058,83,Female,Orthopaedics,Elective,Confusion,,100.0,22.0,2.7,0
+A0059,57,Female,Elderly Care,Emergency,Alert,Former,78.0,17.0,2.1,0
+A0060,65,Male,Cardiology,Transfer,Alert,Never,83.0,16.0,3.9,0
+A0061,64,Male,General Surgery,Emergency,Alert,Never,91.0,19.0,4.3,0
+A0062,64,Female,Acute Medical Unit,Emergency,Alert,Former,80.0,19.0,2.9,0
+A0063,43,Male,Orthopaedics,Elective,Alert,Never,93.0,19.0,1.6,0
+A0064,87,Female,Stroke,Emergency,Alert,Former,103.0,20.0,2.1,0
+A0065,71,Female,Respiratory,Emergency,Alert,Former,100.0,19.0,4.8,1
+A0066,60,Male,Orthopaedics,Elective,Alert,,75.0,17.0,26.0,0
+A0067,72,Female,General Surgery,Elective,Alert,Never,71.0,16.0,11.4,0
+A0068,37,Male,General Surgery,Elective,Alert,,110.0,14.0,4.1,0
+A0069,55,Male,Acute Medical Unit,Emergency,Alert,Never,999.0,19.0,53.9,0
+A0070,78,Female,Respiratory,Emergency,Confusion,Current,110.0,19.0,2.4,0
+A0071,71,Female,Orthopaedics,Elective,Alert,Current,89.0,19.0,2.7,0
+A0072,55,Female,General Surgery,Transfer,Alert,Never,78.0,17.0,2.8,0
+A0073,66,Female,Cardiology,Emergency,Alert,Current,95.0,18.0,5.5,0
+A0074,77,Female,Elderly Care,Emergency,Alert,Never,71.0,17.0,16.0,0
+A0075,68,Male,General Surgery,Emergency,Alert,Never,82.0,13.0,2.3,0
+A0076,64,Female,Cardiology,Emergency,Alert,Never,93.0,16.0,5.4,0
+A0077,74,Male,Orthopaedics,Emergency,Confusion,Never,94.0,13.0,20.7,0
+A0078,36,Female,Acute Medical Unit,Transfer,Alert,Never,75.0,17.0,0.9,0
+A0079,95,Female,Elderly Care,Emergency,Alert,,92.0,25.0,7.2,1
+A0080,99,Male,Elderly Care,Emergency,Alert,,82.0,20.0,4.9,0
+A0081,73,Male,Respiratory,Emergency,Alert,Current,95.0,21.0,7.2,0
+A0082,60,Female,Acute Medical Unit,Emergency,Alert,Former,170.0,16.0,1.2,1
+A0083,60,Female,Orthopaedics,Elective,Alert,Former,84.0,15.0,12.1,0
+A0084,66,Male,General Surgery,Emergency,Alert,Former,72.0,16.0,2.9,0
+A0085,53,Female,Acute Medical Unit,Emergency,Alert,Never,110.0,19.0,6.6,0
+A0086,70,Female,Elderly Care,Emergency,Pain,,124.0,18.0,5.3,1
+A0087,42,Female,Cardiology,Emergency,Alert,,75.0,23.0,2.8,0
+A0088,64,Female,Acute Medical Unit,Emergency,Alert,Former,79.0,16.0,9.3,0
+A0089,58,Male,Acute Medical Unit,Transfer,Alert,Former,101.0,16.0,1.3,0
+A0090,71,Male,Stroke,Transfer,Alert,,71.0,20.0,1.2,0
+A0091,80,Male,Elderly Care,Emergency,Alert,Never,99.0,18.0,3.0,0
+A0092,66,Female,Stroke,Emergency,Alert,Former,96.0,19.0,1.9,0
+A0093,63,Male,Acute Medical Unit,Emergency,Alert,,80.0,11.0,2.3,0
+A0094,55,Male,Cardiology,Emergency,Alert,Current,100.0,16.0,6.7,0
+A0095,79,Male,Elderly Care,Emergency,Confusion,Current,96.0,18.0,4.0,1
+A0096,63,Male,Orthopaedics,Elective,Alert,Former,88.0,17.0,5.0,0
+A0097,54,Female,Stroke,Emergency,Alert,,89.0,22.0,5.1,0
+A0098,43,Female,General Surgery,Elective,Alert,Never,89.0,15.0,8.4,0
+A0099,54,Male,Acute Medical Unit,Emergency,Alert,Former,71.0,18.0,5.4,0
+A0100,54,Female,Acute Medical Unit,Transfer,Alert,Never,86.0,22.0,3.2,0
+A0101,61,Male,General Surgery,Transfer,Alert,Never,83.0,11.0,2.2,0
+A0102,63,Male,Cardiology,Emergency,Confusion,Never,88.0,15.0,1.7,0
+A0103,60,Male,Acute Medical Unit,Elective,Alert,Current,91.0,16.0,5.4,1
+A0104,56,Female,Acute Medical Unit,Emergency,Alert,Former,81.0,15.0,5.6,0
+A0105,49,Male,Elderly Care,Emergency,Voice,Never,100.0,16.0,1.5,0
+A0106,60,Female,Acute Medical Unit,Emergency,Alert,Current,93.0,18.0,1.7,0
+A0107,70,Female,Elderly Care,Emergency,Alert,,,21.0,9.7,0
+A0108,59,Male,Acute Medical Unit,Emergency,Alert,Never,84.0,14.0,2.9,0
+A0109,65,Female,Stroke,Emergency,Alert,Former,73.0,20.0,5.2,0
+A0110,82,Male,Stroke,Emergency,Alert,Never,82.0,14.0,2.9,0
+A0111,60,Female,Acute Medical Unit,Emergency,Alert,Never,95.0,16.0,3.4,0
+A0112,69,Female,Acute Medical Unit,Emergency,Alert,Former,91.0,20.0,1.4,0
+A0113,70,Male,Acute Medical Unit,Emergency,Alert,Current,62.0,19.0,13.8,0
+A0114,51,Male,General Surgery,Elective,Alert,Never,73.0,17.0,0.6,0
+A0115,71,Female,Acute Medical Unit,Emergency,Alert,Former,90.0,17.0,9.0,0
+A0116,83,Female,Elderly Care,Emergency,Alert,Never,50.0,17.0,1.9,0
+A0117,67,Female,Elderly Care,Elective,Confusion,Current,85.0,15.0,4.1,0
+A0118,65,Female,Orthopaedics,Transfer,Alert,,70.0,20.0,6.3,0
+A0119,69,Female,Cardiology,Emergency,Alert,Former,84.0,18.0,1.9,0
+A0120,82,Male,Respiratory,Emergency,Alert,Never,56.0,12.0,4.0,0
+A0121,57,Male,Acute Medical Unit,Emergency,Alert,Never,79.0,20.0,2.4,0
+A0122,99,Female,Elderly Care,Emergency,Alert,Current,83.0,13.0,5.8,0
+A0123,76,Female,Respiratory,Emergency,Alert,,61.0,19.0,3.1,0
+A0124,43,Female,Cardiology,Emergency,Alert,Never,90.0,13.0,0.9,0
+A0125,55,Female,Respiratory,Transfer,Alert,Never,88.0,22.0,6.3,0
+A0126,68,Male,Acute Medical Unit,Emergency,Alert,Never,93.0,20.0,12.8,0
+A0127,50,Female,Respiratory,Transfer,Alert,Former,70.0,20.0,15.8,0
+A0128,67,Female,Acute Medical Unit,Transfer,Alert,Current,88.0,19.0,13.6,0
+A0129,78,Male,Acute Medical Unit,Emergency,Alert,Never,82.0,14.0,5.2,1
+A0130,77,Male,Elderly Care,Emergency,Alert,Former,94.0,14.0,4.2,0
+A0131,85,Female,Cardiology,Emergency,Alert,Former,92.0,21.0,4.2,0
+A0132,77,Female,Acute Medical Unit,Emergency,Alert,Never,77.0,18.0,9.9,0
+A0133,73,Female,Stroke,Emergency,Pain,,103.0,22.0,3.0,0
+A0134,67,Male,Respiratory,Emergency,Alert,Former,92.0,15.0,1.6,0
+A0135,63,Female,Acute Medical Unit,Emergency,Alert,Never,82.0,16.0,2.1,1
+A0136,63,Female,General Surgery,Emergency,Alert,Never,94.0,16.0,5.0,0
+A0137,42,Male,Acute Medical Unit,Emergency,Alert,Former,89.0,18.0,5.3,0
+A0138,78,Female,Elderly Care,Transfer,Alert,Current,87.0,20.0,9.3,1
+A0139,48,Female,Cardiology,Emergency,Alert,,77.0,22.0,2.8,0
+A0140,63,Female,Respiratory,Emergency,Alert,Never,73.0,17.0,3.8,0
+A0141,77,Female,Elderly Care,Emergency,Alert,,58.0,18.0,7.8,0
+A0142,58,Female,Elderly Care,Emergency,Alert,Current,59.0,15.0,4.9,0
+A0143,48,Male,Renal,Transfer,Alert,Current,66.0,12.0,4.1,0
+A0144,56,Male,Acute Medical Unit,Emergency,Alert,Current,85.0,19.0,3.1,0
+A0145,84,Male,General Surgery,Emergency,Alert,,74.0,13.0,8.0,0
+A0146,51,Female,Cardiology,Emergency,Alert,Former,80.0,16.0,0.7,0
+A0147,68,Male,Respiratory,Transfer,Alert,Former,86.0,17.0,5.4,0
+A0148,63,Male,Stroke,Emergency,Alert,Never,53.0,18.0,11.1,0
+A0149,75,Female,Elderly Care,Emergency,Alert,Never,81.0,17.0,3.8,0
+A0150,86,Male,Stroke,Emergency,Alert,Former,109.0,19.0,6.9,0
+A0151,70,Male,Orthopaedics,Elective,Alert,Never,82.0,20.0,3.3,0
+A0152,66,Female,Acute Medical Unit,Emergency,Alert,,73.0,16.0,7.6,0
+A0153,67,Male,Acute Medical Unit,Elective,Alert,Former,77.0,14.0,4.0,0
+A0154,87,Male,Elderly Care,Emergency,Confusion,,74.0,19.0,6.6,0
+A0155,48,Female,Stroke,Emergency,Confusion,Never,93.0,19.0,4.0,0
+A0156,63,Male,General Surgery,Emergency,Alert,Former,110.0,18.0,7.4,1
+A0157,65,Female,Orthopaedics,Elective,Alert,Never,109.0,18.0,8.1,0
+A0158,71,Female,Orthopaedics,Transfer,Alert,Never,59.0,13.0,3.8,0
+A0159,78,Female,Cardiology,Elective,Pain,Never,95.0,20.0,2.5,0
+A0160,66,Female,Acute Medical Unit,Emergency,Alert,Never,93.0,21.0,2.3,0
+A0161,88,Female,Elderly Care,Emergency,Alert,,77.0,16.0,2.0,1
+A0162,54,Female,Cardiology,Emergency,Alert,,110.0,18.0,2.6,0
+A0163,63,Female,General Surgery,Emergency,Alert,,71.0,15.0,4.3,0
+A0164,60,Female,Acute Medical Unit,Emergency,Alert,Current,,20.0,2.7,0
+A0165,60,Female,Acute Medical Unit,Emergency,Alert,Former,80.0,17.0,11.5,0
+A0166,74,Male,General Surgery,Emergency,Alert,Never,74.0,15.0,3.2,0
+A0167,52,Male,General Surgery,Elective,Alert,Former,57.0,21.0,4.1,0
+A0168,53,Female,Acute Medical Unit,Emergency,Alert,Former,86.0,10.0,7.2,0
+A0169,52,Female,Cardiology,Emergency,Alert,Never,95.0,15.0,3.7,0
+A0170,76,Male,Elderly Care,Emergency,Alert,Never,92.0,19.0,8.0,1
+A0171,81,Female,Cardiology,Emergency,Alert,Never,94.0,14.0,14.5,0
+A0172,38,Male,General Surgery,Emergency,Alert,Current,86.0,14.0,6.2,0
+A0173,83,Male,Elderly Care,Emergency,Alert,Current,87.0,13.0,2.6,0
+A0174,28,Male,General Surgery,Elective,Alert,Never,100.0,16.0,6.9,0
+A0175,66,Male,Stroke,Emergency,Alert,Never,58.0,17.0,3.2,0
+A0176,71,Female,Orthopaedics,Emergency,Alert,,98.0,13.0,2.0,0
+A0177,61,Female,Respiratory,Emergency,Alert,,84.0,18.0,10.6,0
+A0178,66,Male,Elderly Care,,Alert,Current,67.0,18.0,4.9,0
+A0179,63,Male,Respiratory,Emergency,Alert,,87.0,19.0,2.3,0
+A0180,92,Female,Elderly Care,Elective,Alert,Former,60.0,14.0,7.7,0
+A0181,76,Male,General Surgery,Elective,Alert,Never,93.0,18.0,4.7,0
+A0182,79,Male,Acute Medical Unit,Emergency,Unresponsive,,105.0,19.0,2.7,1
+A0183,69,Male,Acute Medical Unit,Emergency,Alert,Current,72.0,17.0,6.4,0
+A0184,72,Female,Cardiology,Emergency,Alert,Former,105.0,18.0,3.7,0
+A0185,80,Female,Cardiology,Emergency,Alert,Current,58.0,22.0,4.5,0
+A0186,53,Male,Respiratory,Emergency,Alert,Former,104.0,20.0,18.2,0
+A0187,49,Female,Acute Medical Unit,Transfer,Alert,Never,96.0,19.0,5.1,0
+A0188,95,Male,Elderly Care,Emergency,Alert,Former,68.0,21.0,5.5,1
+A0189,76,Male,Orthopaedics,Emergency,Alert,,80.0,15.0,5.2,0
+A0190,69,Male,General Surgery,Elective,Alert,Current,68.0,15.0,4.3,0
+A0191,71,Female,Cardiology,Emergency,Alert,Former,69.0,17.0,5.6,0
+A0192,51,Male,Acute Medical Unit,Emergency,Alert,,115.0,20.0,3.8,0
+A0193,55,Male,Cardiology,Emergency,Alert,Never,72.0,19.0,7.9,0
+A0194,72,Female,Acute Medical Unit,Elective,Alert,Never,85.0,18.0,11.7,0
+A0195,74,Female,Acute Medical Unit,Transfer,Alert,Current,96.0,21.0,4.0,0
+A0196,61,Male,Stroke,Emergency,Confusion,Former,85.0,20.0,1.2,0
+A0197,58,Female,Respiratory,Emergency,Alert,Current,75.0,17.0,1.9,0
+A0198,67,Female,Cardiology,Emergency,Alert,Never,86.0,16.0,4.6,0
+A0199,84,Female,Stroke,Emergency,Confusion,Former,89.0,21.0,6.5,0
+A0200,76,Male,Elderly Care,Transfer,Confusion,Former,77.0,16.0,2.2,0
+A0201,57,Male,Respiratory,Emergency,Alert,Never,85.0,19.0,8.0,0
+A0202,70,Male,General Surgery,Elective,Alert,Current,70.0,19.0,2.4,0
+A0203,75,Female,Cardiology,Emergency,Confusion,Never,85.0,19.0,1.1,0
+A0204,72,Female,Elderly Care,Emergency,Confusion,Current,92.0,21.0,3.8,1
+A0205,72,Male,Elderly Care,Transfer,Alert,Former,98.0,22.0,5.7,0
+A0206,81,Male,Cardiology,Emergency,Alert,Current,76.0,15.0,2.4,0
+A0207,53,Male,Cardiology,,Alert,,67.0,19.0,1.4,0
+A0208,76,Female,Elderly Care,Emergency,Confusion,Former,88.0,16.0,3.6,0
+A0209,66,Female,Acute Medical Unit,Emergency,Alert,,89.0,18.0,2.4,0
+A0210,60,Male,General Surgery,Elective,Alert,Never,96.0,16.0,7.8,0
+A0211,72,Female,Acute Medical Unit,Emergency,Alert,Never,83.0,16.0,6.6,0
+A0212,40,Female,Acute Medical Unit,Emergency,Alert,Never,70.0,16.0,5.7,0
+A0213,68,Female,Cardiology,Emergency,Alert,,69.0,19.0,1.7,0
+A0214,72,Male,Cardiology,Emergency,Pain,,,21.0,2.0,0
+A0215,65,Male,Acute Medical Unit,Emergency,Alert,,83.0,17.0,2.0,0
+A0216,65,Male,General Surgery,Transfer,Alert,Never,69.0,20.0,14.9,0
+A0217,66,Female,Elderly Care,Emergency,Alert,,77.0,20.0,6.0,0
+A0218,97,Male,Elderly Care,Emergency,Unresponsive,,118.0,22.0,4.3,1
+A0219,66,Male,Acute Medical Unit,Emergency,Alert,Never,77.0,13.0,4.1,0
+A0220,68,Female,Acute Medical Unit,Emergency,Alert,,84.0,11.0,2.1,1
+A0221,61,Male,Cardiology,Emergency,Alert,Current,85.0,16.0,3.6,1
+A0222,82,Female,Elderly Care,Emergency,Confusion,Never,,20.0,7.9,0
+A0223,83,Male,Respiratory,Emergency,Alert,Current,76.0,14.0,5.0,1
+A0224,68,Male,Cardiology,Emergency,Alert,,91.0,20.0,3.0,0
+A0225,82,Female,Elderly Care,Emergency,Alert,Former,68.0,15.0,12.7,0
+A0226,84,Female,Elderly Care,Elective,Alert,Former,100.0,21.0,2.9,0
+A0227,41,Female,Acute Medical Unit,Emergency,Alert,Never,91.0,20.0,2.3,0
+A0228,78,Female,Elderly Care,Emergency,Alert,Never,93.0,19.0,2.4,0
+A0229,76,Male,Cardiology,Emergency,Alert,Former,78.0,15.0,17.6,0
+A0230,60,Female,Orthopaedics,Emergency,Alert,Never,73.0,21.0,4.2,0
+A0231,60,Male,Acute Medical Unit,Emergency,Alert,Current,90.0,17.0,1.8,0
+A0232,45,Female,Burns,,Alert,Never,111.0,17.0,4.2,0
+A0233,48,Female,Respiratory,Emergency,Alert,Former,94.0,17.0,4.3,0
+A0234,71,Male,Acute Medical Unit,Elective,Alert,Never,75.0,13.0,6.0,0
+A0235,64,Male,Elderly Care,Emergency,Alert,Current,59.0,19.0,15.6,0
+A0236,66,Male,Acute Medical Unit,Emergency,Alert,,79.0,20.0,11.7,1
+A0237,72,Male,Stroke,Emergency,Alert,Never,77.0,19.0,1.6,0
+A0238,57,Male,Acute Medical Unit,Emergency,Alert,Never,68.0,16.0,14.3,0
+A0239,68,Male,Respiratory,Emergency,Alert,Former,75.0,15.0,5.9,1
+A0240,89,Male,Elderly Care,Emergency,Alert,Former,101.0,16.0,13.9,1
+A0241,68,Female,General Surgery,Elective,Alert,Never,74.0,21.0,10.0,0
+A0242,63,Female,Cardiology,,Alert,Never,86.0,20.0,2.9,0
+A0243,56,Female,General Surgery,Elective,Alert,,98.0,17.0,4.7,0
+A0244,51,Female,Acute Medical Unit,Emergency,Alert,Former,96.0,16.0,11.0,0
+A0245,43,Male,Acute Medical Unit,Transfer,Alert,Former,94.0,14.0,3.5,0
+A0246,91,Female,Elderly Care,Transfer,Alert,Former,160.0,16.0,3.4,1
+A0247,48,Male,Acute Medical Unit,Emergency,Alert,Former,90.0,16.0,9.8,0
+A0248,58,Male,Respiratory,Transfer,Alert,Current,55.0,21.0,2.9,0
+A0249,85,Female,Elderly Care,Emergency,Alert,,67.0,13.0,5.3,0
+A0250,51,Male,Respiratory,Emergency,Alert,Former,92.0,17.0,7.7,0
+A0251,64,Female,General Surgery,Emergency,Alert,Former,94.0,21.0,8.2,0
+A0252,57,Female,Respiratory,Emergency,Alert,Former,95.0,17.0,3.3,0
+A0253,60,Female,Stroke,Emergency,Confusion,Never,92.0,17.0,3.2,0
+A0254,67,Female,Stroke,Emergency,Confusion,Never,98.0,14.0,4.4,0
+A0255,64,Female,Stroke,Emergency,Alert,Never,79.0,20.0,4.9,0
+A0256,71,Female,Cardiology,Emergency,Alert,Current,68.0,17.0,2.9,0
+A0257,97,Male,Elderly Care,Emergency,Confusion,,93.0,16.0,3.1,0
+A0258,69,Male,Acute Medical Unit,Transfer,Alert,,101.0,19.0,4.0,0
+A0259,67,Male,Acute Medical Unit,Emergency,Alert,Current,106.0,17.0,1.8,0
+A0260,54,Male,Acute Medical Unit,Emergency,Alert,Former,91.0,13.0,3.8,0
+A0261,64,Male,Respiratory,Emergency,Alert,Current,65.0,18.0,1.6,0
+A0262,62,Male,Acute Medical Unit,Emergency,Alert,Never,86.0,20.0,5.9,0
+A0263,79,Male,Elderly Care,Emergency,Alert,Never,82.0,15.0,2.2,0
+A0264,81,Female,Elderly Care,Emergency,Alert,Never,75.0,22.0,12.4,1
+A0265,43,Male,General Surgery,Emergency,Alert,Never,86.0,14.0,4.8,0
+A0266,82,Male,Acute Medical Unit,Emergency,Alert,Never,73.0,22.0,10.7,0
+A0267,45,Male,Acute Medical Unit,Emergency,Voice,Never,92.0,31.0,4.6,1
+A0268,59,Female,Acute Medical Unit,Emergency,Confusion,Former,101.0,24.0,2.9,0
+A0269,70,Male,Acute Medical Unit,Emergency,Alert,Never,68.0,18.0,7.8,0
+A0270,49,Female,General Surgery,Elective,Alert,Never,94.0,17.0,4.2,0
+A0271,73,Female,Acute Medical Unit,Emergency,Alert,,77.0,15.0,13.9,0
+A0272,44,Male,Acute Medical Unit,Emergency,Alert,Current,87.0,16.0,1.3,0
+A0273,71,Female,Elderly Care,Emergency,Alert,Former,107.0,13.0,5.9,0
+A0274,29,Male,General Surgery,Elective,Alert,Never,75.0,15.0,5.0,0
+A0275,92,Female,Elderly Care,Transfer,Alert,Never,81.0,20.0,19.7,0
+A0276,51,Female,Orthopaedics,Emergency,Pain,,113.0,19.0,2.8,1
+A0277,71,Male,Elderly Care,Transfer,Alert,Former,91.0,20.0,3.2,0
+A0278,89,Male,Elderly Care,Emergency,Confusion,Former,121.0,18.0,6.3,1
+A0279,61,Female,General Surgery,Emergency,Alert,Former,95.0,17.0,11.5,0
+A0280,73,Female,Acute Medical Unit,Emergency,Alert,Former,84.0,17.0,8.1,0
+A0281,87,Male,Elderly Care,Emergency,Voice,Current,84.0,18.0,8.3,0
+A0282,71,Female,Acute Medical Unit,Emergency,Alert,,88.0,20.0,1.7,0
+A0283,74,Male,Elderly Care,Emergency,Alert,Current,112.0,31.0,4.6,1
+A0284,56,Male,General Surgery,Transfer,Confusion,Former,95.0,16.0,2.3,0
+A0285,76,Male,Cardiology,,Alert,Never,68.0,21.0,2.0,0
+A0286,75,Male,Respiratory,Emergency,Alert,Former,80.0,16.0,8.7,0
+A0287,91,Male,Elderly Care,Emergency,Alert,Former,76.0,14.0,3.5,0
+A0288,51,Female,Acute Medical Unit,Emergency,Alert,Never,87.0,16.0,3.2,0
+A0289,52,Male,Orthopaedics,Elective,Alert,,81.0,19.0,2.7,0
+A0290,58,Female,Stroke,Elective,Alert,Never,76.0,16.0,11.8,0
+A0291,52,Female,General Surgery,Elective,Alert,Never,70.0,18.0,10.9,0
+A0292,64,Male,Orthopaedics,Emergency,Alert,Never,80.0,19.0,8.4,0
+A0293,65,Female,Elderly Care,Emergency,Confusion,,96.0,21.0,20.7,1
+A0294,64,Male,Respiratory,Emergency,Alert,Never,97.0,21.0,13.3,1
+A0295,68,Male,Acute Medical Unit,Emergency,Alert,,77.0,20.0,16.8,0
+A0296,78,Male,Respiratory,Emergency,Alert,Current,99.0,18.0,1.5,0
+A0297,60,Female,Cardiology,Emergency,Alert,,57.0,15.0,5.8,0
+A0298,86,Male,Elderly Care,Emergency,Alert,Current,105.0,17.0,1.5,0
+A0299,52,Female,Cardiology,Emergency,Voice,Former,74.0,16.0,5.6,0
+A0300,58,Female,Respiratory,Emergency,Alert,,75.0,16.0,2.4,0
+A0301,69,Female,Cardiology,Transfer,Alert,Never,82.0,19.0,3.9,0
+A0302,58,Male,Respiratory,Elective,Alert,Never,176.0,18.0,6.2,1
+A0303,48,Female,General Surgery,,Alert,Current,110.0,16.0,0.7,0
+A0304,69,Male,Respiratory,Emergency,Alert,,76.0,18.0,4.9,0
+A0305,54,Male,Respiratory,Emergency,Alert,Former,109.0,15.0,5.6,0
+A0306,69,Female,Cardiology,Emergency,Alert,,32.0,20.0,7.2,0
+A0307,65,Male,Respiratory,Emergency,Alert,,55.0,17.0,4.7,0
+A0308,72,Male,Respiratory,,Alert,Former,85.0,22.0,2.3,0
+A0309,69,Male,Acute Medical Unit,Emergency,Alert,Former,68.0,14.0,15.5,0
+A0310,62,Female,Acute Medical Unit,Emergency,Alert,Former,63.0,15.0,4.2,0
+A0311,59,Male,Orthopaedics,Emergency,Voice,,90.0,18.0,5.5,0
+A0312,91,Male,Elderly Care,Emergency,Alert,Former,159.0,18.0,21.8,1
+A0313,60,Female,General Surgery,Elective,Alert,Former,74.0,17.0,1.3,0
+A0314,57,Female,Cardiology,Emergency,Pain,,93.0,20.0,2.7,1
+A0315,69,Male,Cardiology,Transfer,Alert,Former,83.0,20.0,8.4,0
+A0316,53,Male,Acute Medical Unit,Emergency,Alert,Former,90.0,19.0,4.7,0
+A0317,49,Female,Elderly Care,Transfer,Alert,Former,94.0,14.0,3.6,0
+A0318,56,Male,Cardiology,Emergency,Alert,Former,83.0,17.0,8.2,0
+A0319,56,Male,Acute Medical Unit,Emergency,Alert,Former,65.0,13.0,1.9,0
+A0320,62,Female,Cardiology,Emergency,Alert,Former,71.0,22.0,3.5,0
+A0321,49,Female,Cardiology,Transfer,Alert,Former,76.0,15.0,4.1,0
+A0322,62,Male,Respiratory,Emergency,Alert,Never,92.0,18.0,1.9,0
+A0323,84,Female,Elderly Care,Emergency,Alert,Former,69.0,16.0,5.9,0
+A0324,53,Male,Respiratory,Emergency,Alert,Former,96.0,16.0,4.4,0
+A0325,63,Female,Acute Medical Unit,Emergency,Alert,Never,65.0,13.0,0.9,0
+A0326,36,Female,Acute Medical Unit,Elective,Alert,Never,84.0,16.0,6.7,0
+A0327,66,Male,Acute Medical Unit,Transfer,Alert,Never,79.0,17.0,1.8,0
+A0328,60,Female,Cardiology,Emergency,Alert,,92.0,18.0,5.1,0
+A0329,50,Male,Respiratory,Transfer,Alert,Current,97.0,20.0,4.1,0
+A0330,79,Male,Respiratory,Emergency,Voice,Former,93.0,23.0,2.5,1
+A0331,66,Male,Acute Medical Unit,Emergency,Alert,Never,76.0,24.0,2.8,0
+A0332,72,Female,Acute Medical Unit,Emergency,Alert,Never,94.0,12.0,1.8,1
+A0333,61,Male,General Surgery,Elective,Alert,Never,75.0,23.0,6.0,0
+A0334,83,Female,Elderly Care,Emergency,Voice,,,21.0,8.6,1
+A0335,75,Female,Elderly Care,Emergency,Alert,,86.0,19.0,7.7,0
+A0336,62,Female,General Surgery,Emergency,Alert,Never,77.0,17.0,3.0,0
+A0337,59,Male,Acute Medical Unit,Elective,Alert,Never,74.0,17.0,1.2,0
+A0338,52,Male,Acute Medical Unit,Emergency,Alert,Former,94.0,19.0,2.9,0
+A0339,55,Male,General Surgery,Emergency,Alert,Current,88.0,18.0,2.0,0
+A0340,64,Male,Elderly Care,,Alert,Current,70.0,15.0,8.9,0
+A0341,67,Female,Cardiology,Emergency,Alert,,67.0,15.0,3.3,0
+A0342,84,Female,Elderly Care,Emergency,Voice,,109.0,17.0,2.0,1
+A0343,59,Female,General Surgery,Elective,Alert,Former,109.0,16.0,5.5,0
+A0344,86,Female,Elderly Care,Emergency,Alert,Current,82.0,14.0,2.4,1
+A0345,53,Male,General Surgery,Emergency,Confusion,,87.0,16.0,3.3,0
+A0346,68,Male,Cardiology,,Pain,Never,112.0,24.0,11.5,1
+A0347,67,Female,Cardiology,Emergency,Alert,Former,76.0,19.0,12.4,0
+A0348,88,Female,Orthopaedics,Elective,Alert,Former,67.0,16.0,4.6,0
+A0349,45,Female,Acute Medical Unit,Elective,Alert,Current,,15.0,1.7,0
+A0350,99,Male,Elderly Care,,Voice,,93.0,16.0,4.3,1
+A0351,56,Female,Orthopaedics,Emergency,Alert,Former,101.0,17.0,4.6,0
+A0352,75,Male,Elderly Care,Transfer,Voice,,167.0,14.0,7.8,1
+A0353,82,Female,Elderly Care,Transfer,Alert,Never,94.0,19.0,2.8,0
+A0354,64,Male,General Surgery,Emergency,Unresponsive,,99.0,22.0,10.4,1
+A0355,79,Male,Elderly Care,Emergency,Alert,,91.0,15.0,3.2,0
+A0356,60,Female,General Surgery,Emergency,Alert,Current,79.0,13.0,3.1,0
+A0357,77,Female,Acute Medical Unit,Emergency,Confusion,,102.0,16.0,3.0,0
+A0358,98,Female,Cardiology,Emergency,Confusion,Never,109.0,21.0,3.9,1
+A0359,62,Male,General Surgery,Elective,Alert,Current,82.0,19.0,17.8,0
+A0360,87,Female,Elderly Care,Emergency,Alert,Current,81.0,17.0,10.2,1
+A0361,59,Female,Acute Medical Unit,Emergency,Alert,Never,61.0,18.0,3.1,0
+A0362,80,Female,Acute Medical Unit,Emergency,Alert,Current,108.0,18.0,7.9,0
+A0363,66,Female,Cardiology,Elective,Alert,,110.0,19.0,2.5,0
+A0364,63,Male,General Surgery,Elective,Alert,Never,100.0,14.0,1.2,0
+A0365,55,Female,Cardiology,Emergency,Alert,Former,68.0,17.0,5.7,1
+A0366,36,Male,Cardiology,Emergency,Alert,Never,83.0,16.0,32.1,0
+A0367,93,Male,Respiratory,Emergency,Alert,,73.0,18.0,4.6,0
+A0368,92,Female,Elderly Care,Emergency,Alert,Former,86.0,16.0,4.5,0
+A0369,71,Female,Acute Medical Unit,Emergency,Alert,Never,79.0,16.0,1.7,0
+A0370,62,Female,Stroke,Emergency,Confusion,Former,87.0,19.0,50.8,0
+A0371,47,Female,Respiratory,Transfer,Alert,Current,56.0,19.0,4.1,0
+A0372,64,Female,Cardiology,Emergency,Confusion,Current,89.0,16.0,3.9,0
+A0373,62,Male,Acute Medical Unit,Emergency,Alert,,96.0,18.0,3.2,0
+A0374,82,Female,Stroke,Emergency,Alert,,78.0,17.0,3.9,0
+A0375,60,Male,Acute Medical Unit,Emergency,Alert,Former,70.0,15.0,3.8,0
+A0376,80,Female,Orthopaedics,Emergency,Alert,,72.0,18.0,5.4,0
+A0377,69,Male,Orthopaedics,Transfer,Alert,Former,76.0,15.0,7.9,0
+A0378,83,Male,Elderly Care,Elective,Alert,,77.0,14.0,9.0,0
+A0379,93,Male,Elderly Care,Emergency,Alert,Current,76.0,21.0,7.0,0
+A0380,58,Female,Respiratory,Emergency,Alert,Former,112.0,18.0,1.8,0
+A0381,65,Male,Acute Medical Unit,Emergency,Alert,,75.0,15.0,1.2,0
+A0382,51,Male,General Surgery,Elective,Confusion,Former,87.0,20.0,10.7,0
+A0383,49,Female,General Surgery,Emergency,Alert,Never,94.0,18.0,6.5,0
+A0384,80,Male,Renal,Elective,Confusion,Never,92.0,19.0,6.4,0
+A0385,86,Female,Stroke,Emergency,Alert,Never,71.0,17.0,2.7,0
+A0386,72,Female,Orthopaedics,Elective,Alert,Former,76.0,14.0,8.3,0
+A0387,78,Female,Renal,Emergency,Alert,Never,,13.0,5.2,0
+A0388,65,Female,Acute Medical Unit,Transfer,Alert,Never,88.0,17.0,5.9,0
+A0389,76,Female,Acute Medical Unit,Emergency,Alert,Never,68.0,13.0,2.8,0
+A0390,50,Female,Acute Medical Unit,Emergency,Alert,,95.0,16.0,2.7,0
+A0391,64,Female,Orthopaedics,Emergency,Confusion,Former,102.0,14.0,3.7,1
+A0392,84,Female,Elderly Care,Emergency,Alert,Former,74.0,16.0,8.2,0
+A0393,67,Female,Elderly Care,Emergency,Pain,,100.0,21.0,13.5,1
+A0394,58,Male,Respiratory,Emergency,Alert,Current,93.0,16.0,2.8,0
+A0395,46,Female,Acute Medical Unit,Emergency,Alert,Former,78.0,18.0,6.5,0
+A0396,68,Female,Acute Medical Unit,Emergency,Alert,Former,54.0,17.0,6.1,0
+A0397,55,Male,Acute Medical Unit,Emergency,Alert,Never,72.0,18.0,15.4,0
+A0398,64,Female,Acute Medical Unit,Emergency,Alert,Former,118.0,18.0,3.1,1
+A0399,67,Male,Acute Medical Unit,Transfer,Alert,,72.0,19.0,11.0,0
+A0400,55,Female,General Surgery,Elective,Alert,,81.0,16.0,4.0,0
+A0401,63,Male,Renal,Emergency,Alert,Former,110.0,19.0,8.8,0
+A0402,68,Female,Respiratory,Transfer,Alert,,77.0,17.0,4.7,0
+A0403,65,Male,Acute Medical Unit,,Alert,Former,76.0,18.0,11.1,0
+A0404,82,Female,Respiratory,Emergency,Pain,Never,89.0,21.0,72.5,0
+A0405,66,Female,Elderly Care,Emergency,Alert,,91.0,16.0,12.5,0
+A0406,74,Female,Stroke,Emergency,Alert,,71.0,18.0,2.8,0
+A0407,46,Female,Acute Medical Unit,Transfer,Alert,Never,96.0,13.0,10.1,0
+A0408,75,Male,General Surgery,Elective,Alert,Never,99.0,14.0,2.2,0
+A0409,44,Male,Orthopaedics,Emergency,Alert,Never,104.0,13.0,8.6,0
+A0410,68,Male,Respiratory,Emergency,Alert,Former,101.0,19.0,1.8,0
+A0411,55,Female,Acute Medical Unit,Emergency,Alert,Former,80.0,16.0,3.4,0
+A0412,54,Female,Acute Medical Unit,,Alert,Former,64.0,18.0,10.2,0
+A0413,82,Male,Stroke,Emergency,Alert,Never,72.0,22.0,5.8,0
+A0414,73,Female,Respiratory,Transfer,Alert,,114.0,19.0,1.5,0
+A0415,68,Male,Elderly Care,Emergency,Alert,,84.0,11.0,6.2,0
+A0416,72,Male,Respiratory,,Alert,Former,92.0,14.0,13.8,0
+A0417,83,Male,Elderly Care,Elective,Alert,,65.0,20.0,9.1,0
+A0418,71,Female,Elderly Care,Emergency,Alert,Never,99.0,17.0,3.0,0
+A0419,56,Female,Stroke,Emergency,Voice,Never,99.0,22.0,4.7,1
+A0420,76,Female,Respiratory,,Alert,,74.0,22.0,13.9,0
+A0421,69,Male,Acute Medical Unit,Emergency,Alert,Current,97.0,15.0,12.0,0
+A0422,71,Female,Orthopaedics,Elective,Alert,Current,90.0,23.0,1.5,0
+A0423,51,Male,General Surgery,Elective,Alert,,55.0,17.0,9.6,0
+A0424,81,Female,Respiratory,Emergency,Alert,Current,93.0,17.0,1.6,1
+A0425,99,Female,Elderly Care,Emergency,Pain,,105.0,23.0,2.4,1
+A0426,67,Female,Orthopaedics,Elective,Alert,Never,68.0,26.0,4.4,0
+A0427,74,Male,Cardiology,Emergency,Alert,Never,79.0,17.0,2.4,0
+A0428,57,Male,Respiratory,Emergency,Alert,Current,75.0,22.0,10.1,0
+A0429,58,Female,Cardiology,Transfer,Alert,Never,101.0,20.0,4.4,0
+A0430,87,Male,Respiratory,Emergency,Alert,Current,93.0,17.0,2.4,0
+A0431,99,Female,Elderly Care,Emergency,Voice,,95.0,21.0,9.0,0
+A0432,57,Female,Acute Medical Unit,Emergency,Alert,Never,85.0,15.0,1.1,0
+A0433,58,Female,Respiratory,Emergency,Alert,,90.0,16.0,6.5,0
+A0434,46,Female,General Surgery,Emergency,Alert,Never,93.0,14.0,6.7,0
+A0435,55,Female,Renal,Elective,Alert,Never,100.0,19.0,5.6,0
+A0436,80,Male,Elderly Care,Emergency,Alert,Former,106.0,14.0,44.4,0
+A0437,50,Female,Orthopaedics,Elective,Alert,Current,73.0,17.0,2.8,0
+A0438,52,Male,Acute Medical Unit,Emergency,Alert,Current,77.0,13.0,1.5,0
+A0439,71,Male,Acute Medical Unit,Emergency,Alert,,83.0,15.0,7.5,0
+A0440,63,Female,Orthopaedics,Emergency,Alert,Former,78.0,13.0,2.8,0
+A0441,58,Male,Cardiology,,Alert,Former,96.0,17.0,3.2,0
+A0442,51,Male,Orthopaedics,Emergency,Alert,,75.0,15.0,1.3,0
+A0443,78,Male,Orthopaedics,Elective,Alert,Never,83.0,17.0,3.3,0
+A0444,61,Male,Stroke,Emergency,Alert,Current,80.0,20.0,3.6,0
+A0445,77,Male,Elderly Care,Emergency,Alert,Former,95.0,21.0,1.6,0
+A0446,72,Female,Acute Medical Unit,Elective,Alert,Former,102.0,13.0,9.2,0
+A0447,85,Male,Elderly Care,Emergency,Alert,,75.0,13.0,2.5,1
+A0448,60,Male,General Surgery,Elective,Voice,,87.0,21.0,3.5,0
+A0449,64,Male,Acute Medical Unit,Emergency,Alert,Current,99.0,18.0,5.2,0
+A0450,56,Female,Cardiology,,Alert,Current,96.0,18.0,5.9,0
+A0451,64,Female,Stroke,Transfer,Voice,Current,105.0,21.0,21.0,1
+A0452,54,Male,Acute Medical Unit,Emergency,Alert,Former,108.0,20.0,2.9,0
+A0453,23,Female,General Surgery,Emergency,Alert,,92.0,18.0,5.5,1
+A0454,61,Female,Respiratory,Emergency,Alert,Former,86.0,18.0,6.0,0
+A0455,66,Male,Cardiology,Elective,Confusion,Never,80.0,18.0,6.1,0
+A0456,59,Female,Acute Medical Unit,Emergency,Alert,Current,83.0,14.0,0.6,0
+A0457,78,Female,Elderly Care,Elective,Alert,Current,96.0,18.0,4.7,0
+A0458,81,Male,Elderly Care,Elective,Alert,Former,96.0,19.0,4.3,0
+A0459,76,Female,Stroke,Emergency,Alert,Former,74.0,14.0,2.7,0
+A0460,77,Female,General Surgery,Elective,Unresponsive,,93.0,27.0,5.6,1
+A0461,81,Male,Elderly Care,Emergency,Alert,Never,56.0,20.0,7.4,0
+A0462,70,Male,Acute Medical Unit,Emergency,Alert,Current,81.0,12.0,5.1,0
+A0463,53,Male,Acute Medical Unit,Emergency,Alert,Current,95.0,18.0,6.1,0
+A0464,70,Male,Respiratory,Transfer,Alert,Former,93.0,16.0,3.9,0
+A0465,77,Female,Stroke,Elective,Pain,,102.0,25.0,2.2,1
+A0466,63,Male,Respiratory,Transfer,Alert,Never,72.0,20.0,19.0,0
+A0467,59,Male,Elderly Care,Emergency,Alert,Former,108.0,20.0,2.2,0
+A0468,63,Female,Elderly Care,Emergency,Pain,Former,103.0,21.0,4.5,1
+A0469,65,Female,Acute Medical Unit,Emergency,Alert,Never,84.0,19.0,5.4,0
+A0470,60,Female,Acute Medical Unit,Emergency,Alert,,102.0,20.0,1.7,0
+A0471,70,Female,Stroke,Elective,Alert,Former,102.0,14.0,4.4,0
+A0472,71,Male,Elderly Care,Emergency,Alert,Never,88.0,17.0,6.0,0
+A0473,80,Male,Elderly Care,Emergency,Alert,Never,68.0,17.0,5.7,0
+A0474,67,Male,Acute Medical Unit,Elective,Alert,Former,94.0,17.0,4.2,0
+A0475,89,Male,Cardiology,Emergency,Alert,,96.0,19.0,7.4,0
+A0476,57,Female,General Surgery,Elective,Alert,Never,81.0,16.0,1.4,0
+A0477,65,Female,Cardiology,Transfer,Alert,Former,106.0,14.0,7.0,0
+A0478,64,Male,Acute Medical Unit,Emergency,Alert,Never,79.0,14.0,8.6,0
+A0479,74,Female,Acute Medical Unit,Emergency,Confusion,Never,97.0,20.0,4.0,0
+A0480,88,Female,Acute Medical Unit,Emergency,Alert,Never,75.0,14.0,2.6,0
+A0481,67,Male,Acute Medical Unit,,Alert,,78.0,16.0,1.9,0
+A0482,49,Female,Respiratory,Emergency,Alert,,93.0,18.0,3.9,0
+A0483,68,Male,Cardiology,Emergency,Alert,Never,106.0,15.0,2.6,0
+A0484,53,Male,Respiratory,Transfer,Confusion,Current,68.0,13.0,10.2,1
+A0485,49,Female,Acute Medical Unit,Emergency,Confusion,Never,113.0,18.0,1.4,0
+A0486,82,Male,Acute Medical Unit,Emergency,Alert,Current,91.0,17.0,4.0,0
+A0487,69,Male,Stroke,Emergency,Alert,Former,60.0,13.0,1.8,0
+A0488,57,Female,Orthopaedics,Elective,Confusion,,81.0,20.0,68.7,0
+A0489,74,Female,General Surgery,Emergency,Alert,Current,99.0,14.0,9.6,0
+A0490,61,Female,Acute Medical Unit,Emergency,Alert,Never,61.0,12.0,6.3,0
+A0491,47,Male,Acute Medical Unit,Emergency,Alert,Former,74.0,19.0,7.2,0
+A0492,67,Female,Respiratory,Emergency,Alert,Never,98.0,17.0,6.6,0
+A0493,63,Female,Elderly Care,Emergency,Alert,,111.0,17.0,4.2,1
+A0494,56,Female,Respiratory,Emergency,Alert,Never,64.0,13.0,5.6,0
+A0495,63,Female,Acute Medical Unit,Emergency,Alert,Current,90.0,12.0,5.0,0
+A0496,30,Male,Acute Medical Unit,Emergency,Alert,Former,100.0,16.0,4.5,0
+A0497,88,Female,Elderly Care,Emergency,Alert,Former,81.0,15.0,4.2,1
+A0498,64,Male,Acute Medical Unit,Emergency,Alert,,81.0,15.0,10.5,0
+A0499,77,Male,Respiratory,Emergency,Alert,,77.0,17.0,2.9,0
+A0500,56,Female,Acute Medical Unit,Emergency,Alert,Former,89.0,19.0,6.0,0
+A0501,63,Male,General Surgery,Elective,Unresponsive,Never,109.0,19.0,25.4,1
+A0502,68,Female,Elderly Care,Emergency,Alert,Former,78.0,17.0,1.1,0
+A0503,69,Female,Elderly Care,Emergency,Voice,Never,84.0,19.0,9.8,0
+A0504,62,Female,Acute Medical Unit,Emergency,Alert,Never,99.0,23.0,2.0,0
+A0505,80,Male,Elderly Care,Emergency,Confusion,Never,76.0,17.0,10.2,0
+A0506,61,Female,Acute Medical Unit,Emergency,Alert,Never,84.0,14.0,0.8,0
+A0507,96,Male,Elderly Care,Emergency,Confusion,,85.0,18.0,7.7,1
+A0508,57,Male,Acute Medical Unit,Emergency,Alert,Never,94.0,24.0,1.7,0
+A0509,73,Male,Cardiology,Emergency,Alert,Never,98.0,14.0,3.6,0
+A0510,65,Female,Acute Medical Unit,Elective,Alert,Current,85.0,15.0,8.1,0
+A0511,63,Male,Acute Medical Unit,Emergency,Alert,Former,91.0,16.0,7.4,0
+A0512,85,Female,Elderly Care,Emergency,Alert,Never,77.0,14.0,90.6,0
+A0513,47,Female,Cardiology,Elective,Alert,Never,107.0,19.0,5.1,0
+A0514,73,Female,Elderly Care,Emergency,Confusion,Current,81.0,16.0,2.7,1
+A0515,74,Female,Acute Medical Unit,Elective,Alert,Never,114.0,17.0,5.3,0
+A0516,63,Male,Respiratory,Emergency,Confusion,Never,71.0,18.0,3.6,0
+A0517,71,Female,Renal,Transfer,Alert,Current,79.0,19.0,10.5,0
+A0518,73,Female,Cardiology,Emergency,Alert,Current,87.0,20.0,12.7,0
+A0519,24,Female,Acute Medical Unit,Elective,Alert,Current,81.0,18.0,2.4,0
+A0520,51,Female,Respiratory,Emergency,Alert,Never,51.0,15.0,8.0,0
+A0521,60,Female,Cardiology,Emergency,Alert,Never,100.0,18.0,4.2,0
+A0522,72,Female,Elderly Care,Emergency,Alert,Current,78.0,16.0,6.3,0
+A0523,68,Male,Stroke,,Alert,Current,101.0,18.0,11.2,0
+A0524,69,Female,Stroke,Emergency,Alert,Never,78.0,16.0,11.1,0
+A0525,70,Female,Elderly Care,Emergency,Alert,Never,90.0,17.0,2.6,0
+A0526,72,Female,Elderly Care,Emergency,Alert,,97.0,16.0,8.1,0
+A0527,44,Female,Cardiology,Emergency,Alert,Former,73.0,17.0,8.4,0
+A0528,97,Female,Stroke,Emergency,Alert,Former,97.0,22.0,6.6,0
+A0529,83,Female,Respiratory,Emergency,Confusion,Current,93.0,22.0,6.5,1
+A0530,84,Female,Stroke,Emergency,Alert,,81.0,16.0,10.0,0
+A0531,57,Female,General Surgery,Elective,Alert,Former,109.0,18.0,2.5,0
+A0532,47,Female,General Surgery,Emergency,Alert,Former,108.0,13.0,12.3,0
+A0533,99,Female,Elderly Care,Emergency,Alert,Never,113.0,19.0,5.2,0
+A0534,46,Male,General Surgery,Elective,Alert,Never,,20.0,5.3,0
+A0535,97,Male,Elderly Care,Emergency,Confusion,Former,999.0,14.0,3.5,0
+A0536,83,Female,Elderly Care,Emergency,Alert,Current,63.0,14.0,5.8,0
+A0537,56,Female,Respiratory,Emergency,Alert,Current,88.0,13.0,4.6,0
+A0538,51,Female,Acute Medical Unit,Emergency,Alert,Never,76.0,17.0,3.9,0
+A0539,53,Female,General Surgery,,Alert,Former,89.0,15.0,1.2,0
+A0540,59,Male,Respiratory,Emergency,Alert,Current,79.0,19.0,7.6,0
+A0541,44,Female,Acute Medical Unit,Emergency,Alert,Never,64.0,18.0,2.0,0
+A0542,73,Female,Cardiology,Emergency,Alert,,85.0,13.0,3.9,0
+A0543,55,Male,Orthopaedics,,Alert,Current,101.0,15.0,5.7,0
+A0544,75,Male,Orthopaedics,Emergency,Alert,,80.0,16.0,3.5,0
+A0545,59,Male,Acute Medical Unit,Emergency,Pain,,94.0,20.0,2.4,1
+A0546,69,Male,Cardiology,Emergency,Alert,Former,67.0,19.0,7.6,0
+A0547,62,Female,Acute Medical Unit,Emergency,Alert,Never,87.0,19.0,1.5,0
+A0548,61,Male,Orthopaedics,Elective,Alert,Never,90.0,22.0,4.5,0
+A0549,65,Female,Respiratory,Transfer,Confusion,Former,89.0,13.0,3.8,0
+A0550,69,Female,Respiratory,Emergency,Alert,Former,90.0,24.0,5.3,0
+A0551,72,Female,Burns,Emergency,Alert,Former,100.0,19.0,3.0,0
+A0552,42,Female,General Surgery,Elective,Alert,Never,92.0,16.0,2.7,0
+A0553,57,Male,Orthopaedics,Emergency,Alert,Current,49.0,14.0,8.2,0
+A0554,69,Male,Stroke,Emergency,Confusion,,106.0,20.0,12.0,1
+A0555,53,Female,Cardiology,,Alert,Never,86.0,21.0,2.4,0
+A0556,45,Male,Acute Medical Unit,Transfer,Confusion,Former,72.0,20.0,6.7,0
+A0557,61,Female,Elderly Care,Transfer,Alert,Former,91.0,20.0,6.4,0
+A0558,65,Female,Orthopaedics,Emergency,Alert,,73.0,17.0,11.0,0
+A0559,54,Male,Acute Medical Unit,Emergency,Alert,Never,70.0,16.0,16.6,0
+A0560,81,Female,Elderly Care,Emergency,Alert,Never,88.0,15.0,5.4,1
+A0561,43,Male,Acute Medical Unit,Emergency,Confusion,Current,102.0,13.0,4.8,0
+A0562,56,Male,Respiratory,Transfer,Alert,Never,102.0,17.0,3.0,0
+A0563,90,Male,Elderly Care,Transfer,Alert,Never,82.0,20.0,8.8,1
+A0564,82,Male,Stroke,Elective,Confusion,Never,94.0,23.0,6.9,0
+A0565,42,Female,Acute Medical Unit,Emergency,Alert,Never,79.0,17.0,4.0,0
+A0566,89,Female,Elderly Care,Emergency,Alert,Former,71.0,13.0,3.5,0
+A0567,59,Female,Orthopaedics,Emergency,Alert,Former,50.0,16.0,3.1,0
+A0568,66,Male,Elderly Care,Elective,Alert,Former,97.0,18.0,1.2,0
+A0569,76,Female,Cardiology,Emergency,Alert,,88.0,21.0,1.1,0
+A0570,68,Female,General Surgery,Elective,Confusion,Former,97.0,19.0,3.4,0
+A0571,49,Male,Elderly Care,Emergency,Voice,,95.0,23.0,2.6,1
+A0572,76,Female,Orthopaedics,Elective,Alert,Never,92.0,19.0,6.4,1
+A0573,59,Female,Orthopaedics,Elective,Voice,,87.0,21.0,5.1,0
+A0574,51,Female,General Surgery,,Alert,Current,101.0,18.0,2.7,0
+A0575,75,Male,Elderly Care,Emergency,Alert,Never,100.0,18.0,4.1,0
+A0576,70,Female,General Surgery,Emergency,Alert,,104.0,16.0,3.2,0
+A0577,72,Male,General Surgery,Elective,Alert,Never,72.0,17.0,10.4,0
+A0578,69,Female,Orthopaedics,Emergency,Alert,,92.0,16.0,6.2,0
+A0579,76,Male,Cardiology,Emergency,Alert,Never,78.0,19.0,5.0,0
+A0580,85,Female,Acute Medical Unit,Emergency,Alert,Never,79.0,13.0,10.1,0
+A0581,65,Female,Respiratory,Emergency,Unresponsive,,110.0,20.0,13.0,1
+A0582,67,Male,Elderly Care,Emergency,Alert,Never,81.0,19.0,9.1,0
+A0583,71,Male,Orthopaedics,Elective,Alert,Former,63.0,15.0,5.6,0
+A0584,74,Female,Respiratory,Emergency,Confusion,Never,98.0,19.0,5.7,1
+A0585,58,Female,Acute Medical Unit,,Alert,Former,92.0,16.0,3.2,0
+A0586,76,Female,Elderly Care,Emergency,Alert,Never,85.0,14.0,5.0,1
+A0587,99,Male,Elderly Care,Elective,Alert,Never,85.0,17.0,5.6,0
+A0588,76,Male,Elderly Care,Emergency,Alert,Never,71.0,21.0,3.7,0
+A0589,54,Male,Orthopaedics,Elective,Alert,,90.0,16.0,4.7,0
+A0590,28,Male,Acute Medical Unit,Emergency,Alert,Former,107.0,35.0,5.0,1
+A0591,70,Male,Acute Medical Unit,Elective,Alert,Never,69.0,19.0,8.9,0
+A0592,72,Male,General Surgery,Transfer,Alert,Former,,13.0,4.6,0
+A0593,51,Female,Orthopaedics,Elective,Alert,Never,75.0,19.0,8.8,0
+A0594,51,Female,Burns,Emergency,Alert,,75.0,16.0,9.6,0
+A0595,62,Female,Respiratory,Emergency,Alert,,93.0,20.0,65.3,0
+A0596,68,Female,Cardiology,Emergency,Alert,,105.0,16.0,5.6,1
+A0597,50,Male,General Surgery,Elective,Alert,Never,104.0,19.0,2.9,0
+A0598,79,Male,Elderly Care,Emergency,Confusion,Former,73.0,26.0,3.6,0
+A0599,70,Male,Acute Medical Unit,Transfer,Alert,Never,84.0,16.0,1.1,0
+A0600,54,Male,Acute Medical Unit,Transfer,Voice,Former,91.0,17.0,12.0,0
+A0601,71,Male,Elderly Care,Emergency,Alert,Never,99.0,17.0,5.6,0
+A0602,48,Female,Acute Medical Unit,Emergency,Alert,Former,,19.0,4.6,0
+A0603,70,Female,General Surgery,Elective,Alert,Never,78.0,21.0,6.5,0
+A0604,56,Male,Respiratory,Emergency,Alert,Never,61.0,21.0,7.1,0
+A0605,67,Female,Acute Medical Unit,Transfer,Alert,Never,92.0,16.0,4.5,0
+A0606,64,Female,Elderly Care,Transfer,Alert,Never,84.0,16.0,2.0,0
+A0607,53,Female,Elderly Care,Emergency,Alert,Former,96.0,14.0,3.3,0
+A0608,59,Female,Respiratory,Emergency,Alert,Former,91.0,15.0,0.7,0
+A0609,76,Female,Stroke,Transfer,Pain,,104.0,21.0,1.4,1
+A0610,70,Male,General Surgery,Emergency,Alert,Former,75.0,20.0,3.4,0
+A0611,89,Female,Elderly Care,Emergency,Voice,,82.0,23.0,91.6,1
+A0612,66,Female,Renal,Emergency,Alert,Current,94.0,15.0,2.0,0
+A0613,35,Male,Orthopaedics,Transfer,Alert,Never,72.0,15.0,2.7,0
+A0614,66,Female,Acute Medical Unit,,Alert,Former,85.0,17.0,5.0,0
+A0615,42,Female,Acute Medical Unit,Emergency,Alert,Former,78.0,18.0,9.2,0
+A0616,59,Male,Cardiology,Emergency,Alert,Never,73.0,18.0,7.6,0
+A0617,99,Female,Elderly Care,Emergency,Alert,,59.0,13.0,7.7,0
+A0618,79,Male,Cardiology,Emergency,Alert,Former,94.0,14.0,4.7,0
+A0619,54,Male,Cardiology,Emergency,Alert,Current,106.0,19.0,2.8,0
+A0620,62,Male,Respiratory,,Alert,Former,62.0,20.0,7.1,0
+A0621,69,Female,Acute Medical Unit,Emergency,Pain,,119.0,19.0,30.6,1
+A0622,65,Female,Cardiology,Emergency,Confusion,Former,58.0,18.0,2.8,0
+A0623,63,Female,Respiratory,Emergency,Alert,Never,97.0,19.0,7.5,0
+A0624,52,Male,Orthopaedics,Elective,Alert,Never,78.0,18.0,5.6,0
+A0625,67,Male,Acute Medical Unit,Emergency,Alert,Never,86.0,15.0,0.9,0
+A0626,68,Male,Acute Medical Unit,Emergency,Alert,Former,78.0,18.0,3.3,0
+A0627,51,Female,Acute Medical Unit,Emergency,Alert,Current,118.0,14.0,1.8,0
+A0628,42,Female,Respiratory,Emergency,Alert,Never,82.0,18.0,6.5,0
+A0629,87,Male,Orthopaedics,Emergency,Confusion,Former,64.0,17.0,2.4,0
+A0630,52,Male,Acute Medical Unit,Emergency,Alert,Never,89.0,15.0,6.8,0
+A0631,65,Female,Acute Medical Unit,Emergency,Alert,Former,104.0,17.0,3.3,0
+A0632,57,Female,Cardiology,Emergency,Alert,Former,71.0,15.0,3.8,0
+A0633,51,Female,Acute Medical Unit,Emergency,Pain,Former,117.0,18.0,14.0,0
+A0634,91,Female,Elderly Care,Emergency,Alert,Current,56.0,19.0,22.8,0
+A0635,62,Female,Respiratory,Transfer,Alert,Never,104.0,15.0,2.3,0
+A0636,66,Male,General Surgery,Transfer,Confusion,Never,75.0,22.0,1.8,1
+A0637,67,Female,General Surgery,Elective,Alert,,,20.0,90.0,0
+A0638,60,Male,Respiratory,Emergency,Alert,Never,94.0,19.0,12.0,0
+A0639,64,Female,Acute Medical Unit,Emergency,Alert,Current,99.0,13.0,2.6,0
+A0640,74,Female,Orthopaedics,Elective,Alert,Never,103.0,19.0,7.2,0
+A0641,94,Female,Elderly Care,Emergency,Alert,Former,95.0,15.0,4.3,0
+A0642,64,Female,Cardiology,Emergency,Alert,Former,71.0,20.0,1.6,0
+A0643,67,Male,Cardiology,Emergency,Alert,,77.0,14.0,5.9,0
+A0644,54,Female,Orthopaedics,Emergency,Alert,Former,76.0,16.0,1.3,0
+A0645,76,Male,Respiratory,Emergency,Alert,,88.0,19.0,2.5,0
+A0646,62,Male,Acute Medical Unit,Elective,Confusion,Never,81.0,17.0,5.3,0
+A0647,49,Female,Orthopaedics,Emergency,Alert,,79.0,16.0,2.3,0
+A0648,69,Female,Stroke,Emergency,Alert,Never,93.0,17.0,5.5,0
+A0649,78,Female,Elderly Care,Emergency,Confusion,Former,111.0,18.0,4.7,1
+A0650,59,Male,Respiratory,Emergency,Alert,Former,81.0,18.0,5.6,0
+A0651,58,Male,Respiratory,Emergency,Alert,,86.0,18.0,4.6,0
+A0652,41,Male,Acute Medical Unit,Emergency,Alert,Former,84.0,14.0,23.2,0
+A0653,62,Female,Acute Medical Unit,Emergency,Alert,Never,,23.0,10.9,0
+A0654,57,Male,Renal,Emergency,Voice,Current,106.0,22.0,5.4,0
+A0655,71,Male,Acute Medical Unit,Emergency,Alert,Never,87.0,18.0,7.1,1
+A0656,78,Male,Elderly Care,Emergency,Alert,,92.0,15.0,5.5,1
+A0657,89,Female,Elderly Care,Transfer,Alert,Never,85.0,20.0,4.4,0
+A0658,46,Female,Acute Medical Unit,Emergency,Alert,Former,59.0,16.0,5.2,0
+A0659,71,Female,Respiratory,Emergency,Confusion,Former,90.0,18.0,6.2,1
+A0660,66,Female,General Surgery,Elective,Confusion,Former,99.0,18.0,3.1,0
+A0661,69,Female,Acute Medical Unit,Elective,Alert,,75.0,18.0,59.0,0
+A0662,63,Female,Respiratory,Emergency,Alert,Never,96.0,21.0,6.5,0
+A0663,50,Female,Acute Medical Unit,Emergency,Voice,,83.0,18.0,2.8,1
+A0664,80,Male,Acute Medical Unit,Emergency,Alert,,81.0,21.0,3.0,1
+A0665,77,Male,Elderly Care,Emergency,Alert,,82.0,18.0,2.6,0
+A0666,43,Male,General Surgery,Emergency,Alert,Never,57.0,15.0,5.4,0
+A0667,63,Female,Orthopaedics,Emergency,Alert,Never,73.0,23.0,3.2,0
+A0668,70,Female,Respiratory,Emergency,Alert,,67.0,19.0,3.1,0
+A0669,52,Male,Acute Medical Unit,Emergency,Alert,,80.0,13.0,9.4,0
+A0670,66,Female,Acute Medical Unit,Transfer,Alert,Never,89.0,16.0,0.9,0
+A0671,78,Female,Cardiology,,Alert,Former,58.0,15.0,93.1,0
+A0672,57,Female,General Surgery,Elective,Voice,,86.0,17.0,6.1,1
+A0673,92,Female,Elderly Care,Emergency,Alert,,88.0,15.0,69.8,0
+A0674,78,Male,Elderly Care,Emergency,Alert,Former,98.0,17.0,5.3,0
+A0675,74,Male,Elderly Care,Emergency,Voice,,110.0,20.0,8.1,0
+A0676,85,Female,Orthopaedics,Elective,Alert,Never,81.0,19.0,2.8,0
+A0677,87,Male,Elderly Care,Transfer,Alert,Never,82.0,17.0,5.4,0
+A0678,62,Female,Acute Medical Unit,Emergency,Alert,,94.0,17.0,4.9,0
+A0679,45,Male,Respiratory,Emergency,Alert,Never,90.0,21.0,2.0,0
+A0680,44,Male,Acute Medical Unit,Emergency,Alert,Former,100.0,15.0,2.1,0
+A0681,46,Male,Orthopaedics,Emergency,Alert,Current,67.0,18.0,4.2,0
+A0682,73,Female,Stroke,Emergency,Alert,,90.0,20.0,8.2,0
+A0683,57,Female,General Surgery,Emergency,Alert,Never,91.0,20.0,8.7,0
+A0684,73,Male,Cardiology,Emergency,Alert,Former,96.0,15.0,5.6,0
+A0685,73,Male,Acute Medical Unit,Emergency,Alert,Former,54.0,16.0,5.6,0
+A0686,48,Male,Respiratory,Emergency,Confusion,Former,90.0,18.0,3.7,0
+A0687,52,Male,Cardiology,Emergency,Alert,Former,95.0,19.0,1.7,0
+A0688,56,Female,Respiratory,Emergency,Alert,Never,96.0,20.0,2.4,1
+A0689,63,Female,General Surgery,Emergency,Alert,Never,96.0,17.0,1.5,0
+A0690,69,Male,Orthopaedics,Emergency,Alert,Former,56.0,21.0,9.6,0
+A0691,48,Female,Acute Medical Unit,Elective,Alert,Never,75.0,19.0,4.6,0
+A0692,52,Female,Acute Medical Unit,Emergency,Alert,Former,91.0,15.0,1.7,0
+A0693,84,Female,Elderly Care,Emergency,Alert,Current,76.0,19.0,8.3,0
+A0694,68,Female,Respiratory,Emergency,Alert,Never,66.0,13.0,4.5,0
+A0695,92,Female,Elderly Care,Emergency,Alert,Former,72.0,17.0,6.1,0
+A0696,48,Male,General Surgery,Emergency,Confusion,Former,87.0,13.0,11.5,0
+A0697,59,Male,Acute Medical Unit,Emergency,Alert,Former,89.0,17.0,9.6,0
+A0698,55,Female,Respiratory,Emergency,Alert,Never,999.0,20.0,2.2,0
+A0699,80,Female,Respiratory,Emergency,Alert,Never,74.0,19.0,7.3,0
+A0700,79,Male,Respiratory,Emergency,Alert,Never,94.0,11.0,10.4,0
+A0701,64,Male,General Surgery,Elective,Alert,Current,69.0,18.0,13.5,0
+A0702,79,Female,Cardiology,Emergency,Alert,Never,102.0,19.0,3.2,0
+A0703,84,Male,Cardiology,Emergency,Confusion,Never,83.0,20.0,6.4,0
+A0704,85,Male,Cardiology,Elective,Alert,,94.0,19.0,2.2,0
+A0705,81,Female,Acute Medical Unit,Emergency,Alert,Never,79.0,19.0,7.4,0
+A0706,58,Male,Respiratory,Transfer,Alert,Never,118.0,13.0,2.5,0
+A0707,48,Female,General Surgery,Emergency,Alert,,100.0,17.0,2.0,1
+A0708,81,Female,Orthopaedics,Elective,Pain,,117.0,19.0,7.5,1
+A0709,62,Female,Respiratory,Transfer,Alert,Never,69.0,17.0,1.8,0
+A0710,59,Male,Elderly Care,Emergency,Alert,,83.0,18.0,19.4,0
+A0711,52,Male,General Surgery,Elective,Alert,Never,82.0,15.0,6.2,0
+A0712,73,Male,Acute Medical Unit,Emergency,Voice,,81.0,18.0,9.1,0
+A0713,74,Male,Elderly Care,Emergency,Unresponsive,Never,121.0,23.0,2.5,1
+A0714,77,Female,Cardiology,Emergency,Alert,,105.0,16.0,4.5,0
+A0715,78,Male,Stroke,Elective,Unresponsive,,99.0,21.0,47.3,1
+A0716,45,Female,Acute Medical Unit,Transfer,Alert,Former,74.0,17.0,2.5,0
+A0717,85,Female,Elderly Care,Emergency,Alert,Former,151.0,20.0,7.7,1
+A0718,68,Female,Cardiology,Emergency,Confusion,Former,97.0,17.0,12.0,0
+A0719,61,Female,Cardiology,Emergency,Alert,Former,90.0,13.0,11.1,0
+A0720,63,Male,Elderly Care,Emergency,Alert,Former,85.0,15.0,11.0,0
+A0721,86,Female,Respiratory,Emergency,Voice,,85.0,20.0,5.7,1
+A0722,57,Female,Cardiology,Emergency,Alert,Never,74.0,13.0,3.6,1
+A0723,56,Male,Elderly Care,Emergency,Alert,Former,90.0,15.0,2.0,0
+A0724,71,Male,Acute Medical Unit,Emergency,Alert,Never,87.0,15.0,13.2,0
+A0725,62,Female,Respiratory,Emergency,Alert,Never,72.0,22.0,11.8,0
+A0726,72,Male,General Surgery,Elective,Alert,Never,97.0,19.0,3.3,0
+A0727,60,Male,Acute Medical Unit,Elective,Alert,Former,80.0,15.0,2.4,0
+A0728,45,Female,Burns,Transfer,Alert,,100.0,15.0,4.3,0
+A0729,75,Male,Cardiology,Emergency,Alert,Never,92.0,14.0,5.7,0
+A0730,69,Female,Cardiology,Elective,Voice,,105.0,20.0,3.4,0
+A0731,69,Male,Cardiology,Transfer,Confusion,Never,96.0,18.0,9.3,0
+A0732,81,Female,Cardiology,Emergency,Alert,,91.0,13.0,3.4,0
+A0733,57,Female,Cardiology,Emergency,Alert,Former,84.0,18.0,5.7,0
+A0734,75,Female,Cardiology,Emergency,Alert,Former,68.0,20.0,3.0,0
+A0735,69,Female,Orthopaedics,Emergency,Alert,,77.0,18.0,3.5,0
+A0736,61,Male,Elderly Care,Emergency,Confusion,Never,97.0,18.0,2.9,0
+A0737,79,Male,Orthopaedics,Elective,Alert,Never,91.0,21.0,11.1,0
+A0738,77,Male,Cardiology,Emergency,Voice,Former,111.0,20.0,1.9,1
+A0739,85,Female,Respiratory,Emergency,Alert,,66.0,18.0,8.4,0
+A0740,53,Male,General Surgery,Emergency,Alert,Former,86.0,19.0,6.8,0
+A0741,67,Female,Elderly Care,Emergency,Alert,,89.0,13.0,5.2,0
+A0742,99,Female,Respiratory,Emergency,Alert,Current,101.0,30.0,6.1,1
+A0743,49,Male,Acute Medical Unit,Emergency,Alert,Never,108.0,17.0,6.8,0
+A0744,57,Male,Respiratory,Emergency,Alert,,65.0,17.0,11.4,0
+A0745,87,Female,Elderly Care,Emergency,Voice,,101.0,21.0,16.5,0
+A0746,62,Male,Respiratory,Emergency,Alert,,78.0,14.0,0.9,0
+A0747,85,Female,Elderly Care,Emergency,Unresponsive,Never,96.0,20.0,2.8,1
+A0748,45,Male,Acute Medical Unit,Emergency,Alert,Never,86.0,18.0,8.0,0
+A0749,60,Female,Elderly Care,Emergency,Alert,,103.0,18.0,6.5,0
+A0750,61,Male,Cardiology,Emergency,Alert,,66.0,14.0,5.5,0
+A0751,66,Male,General Surgery,Transfer,Alert,Never,83.0,17.0,5.2,0
+A0752,80,Male,Elderly Care,Emergency,Alert,Former,92.0,15.0,6.8,0
+A0753,75,Female,Acute Medical Unit,Emergency,Alert,Never,69.0,16.0,2.9,0
+A0754,77,Female,Elderly Care,Emergency,Confusion,,94.0,16.0,8.2,0
+A0755,65,Female,Renal,Emergency,Alert,Former,69.0,19.0,5.7,0
+A0756,47,Female,General Surgery,Emergency,Confusion,Former,90.0,19.0,6.8,0
+A0757,62,Female,Elderly Care,Emergency,Alert,,81.0,14.0,2.6,0
+A0758,51,Male,Orthopaedics,Elective,Alert,Current,100.0,18.0,10.2,0
+A0759,70,Female,Elderly Care,Emergency,Alert,,92.0,17.0,12.1,0
+A0760,92,Female,Cardiology,Emergency,Alert,Never,76.0,17.0,3.7,1
+A0761,30,Male,Burns,Emergency,Alert,Former,80.0,13.0,11.7,0
+A0762,56,Female,Respiratory,Emergency,Alert,Never,67.0,14.0,4.7,0
+A0763,77,Male,Acute Medical Unit,Elective,Alert,Former,91.0,16.0,7.7,0
+A0764,53,Female,Acute Medical Unit,Emergency,Alert,Never,52.0,15.0,5.0,0
+A0765,87,Female,Elderly Care,Emergency,Alert,,95.0,16.0,6.7,0
+A0766,41,Female,Cardiology,Emergency,Alert,Never,69.0,18.0,3.0,0
+A0767,56,Male,Cardiology,Emergency,Voice,,83.0,21.0,4.0,1
+A0768,67,Male,Acute Medical Unit,Emergency,Alert,Current,85.0,17.0,3.7,0
+A0769,41,Female,Acute Medical Unit,Transfer,Alert,Former,78.0,16.0,7.8,0
+A0770,60,Male,General Surgery,Elective,Alert,Former,69.0,12.0,3.4,0
+A0771,68,Female,Cardiology,Emergency,Confusion,,85.0,18.0,2.0,0
+A0772,59,Female,Orthopaedics,Elective,Alert,,101.0,16.0,2.3,0
+A0773,71,Female,Stroke,Emergency,Unresponsive,,167.0,21.0,6.9,1
+A0774,75,Female,Respiratory,Transfer,Confusion,Current,66.0,20.0,6.5,0
+A0775,57,Female,General Surgery,Emergency,Unresponsive,,125.0,18.0,1.6,1
+A0776,70,Female,General Surgery,Elective,Alert,,67.0,19.0,4.4,0
+A0777,70,Male,Acute Medical Unit,Transfer,Alert,Never,75.0,14.0,1.1,0
+A0778,84,Female,Orthopaedics,Emergency,Confusion,,100.0,14.0,7.9,0
+A0779,63,Female,Cardiology,,Alert,Never,84.0,15.0,19.1,0
+A0780,82,Female,Elderly Care,Emergency,Confusion,,93.0,15.0,10.8,0
+A0781,67,Male,Elderly Care,Transfer,Alert,Never,84.0,17.0,8.5,0
+A0782,68,Female,Acute Medical Unit,Emergency,Alert,Former,75.0,22.0,4.5,0
+A0783,58,Female,Respiratory,Emergency,Alert,Never,91.0,21.0,1.3,0
+A0784,65,Female,General Surgery,Emergency,Alert,Never,82.0,16.0,10.2,0
+A0785,55,Male,General Surgery,Transfer,Alert,Never,61.0,16.0,6.4,0
+A0786,65,Female,Respiratory,Emergency,Alert,Never,88.0,20.0,3.4,0
+A0787,69,Male,Orthopaedics,Elective,Alert,,78.0,19.0,0.8,0
+A0788,57,Male,Orthopaedics,Elective,Alert,Current,91.0,15.0,1.6,0
+A0789,50,Female,General Surgery,Elective,Alert,Former,84.0,18.0,3.0,1
+A0790,72,Male,Elderly Care,Elective,Confusion,Current,73.0,19.0,4.9,0
+A0791,54,Male,Acute Medical Unit,Emergency,Alert,Never,65.0,20.0,2.9,0
+A0792,74,Female,Respiratory,Transfer,Alert,,91.0,24.0,3.2,0
+A0793,53,Female,General Surgery,Emergency,Alert,Current,73.0,17.0,3.5,0
+A0794,73,Male,Elderly Care,Emergency,Pain,Current,87.0,22.0,7.9,1
+A0795,78,Female,Cardiology,,Alert,Never,80.0,17.0,5.9,0
+A0796,75,Male,Respiratory,Emergency,Alert,Never,89.0,17.0,2.9,0
+A0797,59,Male,Acute Medical Unit,Emergency,Voice,,102.0,17.0,3.1,0
+A0798,99,Female,Elderly Care,Emergency,Alert,Never,76.0,16.0,5.1,0
+A0799,45,Male,General Surgery,Elective,Alert,Current,80.0,18.0,7.2,0
+A0800,80,Female,Acute Medical Unit,Elective,Alert,Never,108.0,15.0,3.5,0
+A0801,77,Male,Stroke,Emergency,Alert,Former,65.0,18.0,38.5,0
+A0802,73,Female,Acute Medical Unit,Elective,Voice,,82.0,20.0,3.2,0
+A0803,64,Female,Cardiology,Elective,Alert,Current,83.0,16.0,1.9,0
+A0804,75,Male,Acute Medical Unit,Emergency,Alert,Former,92.0,22.0,3.9,1
+A0805,54,Female,Orthopaedics,Elective,Alert,Never,77.0,20.0,4.3,0
+A0806,76,Male,Respiratory,Emergency,Alert,Former,81.0,19.0,9.2,0
+A0807,61,Female,General Surgery,Elective,Alert,Never,100.0,20.0,5.8,0
+A0808,91,Male,Elderly Care,Emergency,Confusion,Never,94.0,19.0,5.7,1
+A0809,55,Female,Acute Medical Unit,Emergency,Confusion,,101.0,17.0,2.0,0
+A0810,73,Female,Cardiology,Emergency,Confusion,,65.0,20.0,2.8,1
+A0811,58,Female,Cardiology,Emergency,Alert,,69.0,18.0,6.4,0
+A0812,64,Male,Cardiology,Emergency,Alert,Current,92.0,19.0,11.4,0
+A0813,55,Female,General Surgery,Emergency,Alert,,109.0,18.0,1.1,0
+A0814,54,Female,Acute Medical Unit,Emergency,Alert,Former,97.0,16.0,2.9,0
+A0815,68,Male,Stroke,Transfer,Alert,Never,108.0,16.0,5.6,0
+A0816,65,Male,Elderly Care,Emergency,Alert,Former,81.0,14.0,4.7,0
+A0817,64,Female,Orthopaedics,Elective,Alert,Never,97.0,14.0,2.7,0
+A0818,78,Male,Acute Medical Unit,Emergency,Alert,,72.0,20.0,5.1,0
+A0819,99,Female,Orthopaedics,Elective,Confusion,Former,81.0,18.0,2.4,0
+A0820,48,Male,General Surgery,Emergency,Alert,,85.0,18.0,2.7,1
+A0821,52,Male,Acute Medical Unit,Emergency,Unresponsive,,124.0,20.0,26.6,1
+A0822,71,Female,Respiratory,Elective,Alert,Former,78.0,15.0,1.3,0
+A0823,67,Male,Acute Medical Unit,Emergency,Unresponsive,Former,108.0,23.0,2.7,1
+A0824,51,Female,Respiratory,Transfer,Alert,Former,98.0,17.0,6.5,1
+A0825,39,Female,Respiratory,Emergency,Alert,,66.0,21.0,10.0,0
+A0826,71,Male,Cardiology,Emergency,Alert,Former,100.0,11.0,22.4,0
+A0827,96,Male,Elderly Care,,Alert,Former,98.0,17.0,14.6,1
+A0828,75,Female,General Surgery,Emergency,Confusion,Never,92.0,19.0,11.0,0
+A0829,67,Male,Respiratory,Emergency,Alert,Former,110.0,16.0,2.2,0
+A0830,78,Male,Acute Medical Unit,Emergency,Alert,Current,71.0,19.0,19.9,0
+A0831,64,Female,Orthopaedics,Emergency,Alert,Current,85.0,16.0,8.0,0
+A0832,51,Female,Cardiology,Emergency,Voice,Never,108.0,19.0,2.1,0
+A0833,59,Female,Acute Medical Unit,Emergency,Alert,Former,88.0,22.0,2.6,1
+A0834,92,Male,Elderly Care,Transfer,Confusion,Current,75.0,15.0,14.0,0
+A0835,81,Female,Elderly Care,Emergency,Alert,,77.0,18.0,4.5,0
+A0836,61,Male,Cardiology,Emergency,Alert,,65.0,16.0,5.6,0
+A0837,68,Female,Respiratory,Emergency,Alert,Never,97.0,14.0,1.6,0
+A0838,65,Female,Acute Medical Unit,Emergency,Alert,,99.0,18.0,2.8,0
+A0839,69,Male,Respiratory,Emergency,Alert,Current,70.0,11.0,8.3,0
+A0840,71,Male,Respiratory,Emergency,Alert,Never,92.0,38.0,4.1,1
+A0841,70,Female,Orthopaedics,Elective,Alert,Former,58.0,13.0,1.4,0
+A0842,87,Female,Stroke,Emergency,Alert,Current,66.0,17.0,2.5,0
+A0843,81,Male,Elderly Care,Emergency,Alert,,82.0,15.0,4.1,0
+A0844,64,Male,Orthopaedics,Elective,Confusion,Never,84.0,20.0,2.3,0
+A0845,65,Male,Acute Medical Unit,Emergency,Alert,Never,75.0,17.0,2.8,0
+A0846,73,Male,Orthopaedics,Elective,Alert,Never,84.0,18.0,4.7,0
+A0847,59,Female,Elderly Care,Emergency,Confusion,,72.0,14.0,4.4,0
+A0848,80,Female,Orthopaedics,Emergency,Alert,,69.0,20.0,13.1,0
+A0849,81,Female,Acute Medical Unit,Emergency,Alert,,93.0,15.0,11.6,0
+A0850,67,Female,Respiratory,Emergency,Alert,Never,64.0,33.0,9.8,1
+A0851,74,Female,Respiratory,Emergency,Alert,Former,114.0,14.0,2.8,1
+A0852,52,Male,Acute Medical Unit,Transfer,Alert,,73.0,20.0,5.8,0
+A0853,66,Male,General Surgery,Emergency,Alert,Former,78.0,19.0,3.0,0
+A0854,51,Male,Acute Medical Unit,Emergency,Alert,Never,82.0,20.0,16.5,0
+A0855,69,Female,Respiratory,Emergency,Alert,Current,92.0,14.0,2.6,0
+A0856,65,Male,General Surgery,Emergency,Voice,Former,84.0,18.0,4.0,1
+A0857,59,Female,Cardiology,Emergency,Alert,Never,61.0,17.0,7.3,0
+A0858,67,Male,Elderly Care,Emergency,Alert,,76.0,19.0,4.0,0
+A0859,70,Female,Stroke,Emergency,Confusion,Never,102.0,23.0,2.0,0
+A0860,59,Female,Orthopaedics,Elective,Alert,Never,,16.0,2.7,0
+A0861,57,Female,Acute Medical Unit,Emergency,Alert,,84.0,17.0,18.3,0
+A0862,48,Female,Acute Medical Unit,Emergency,Alert,,87.0,16.0,6.1,0
+A0863,93,Male,Elderly Care,Elective,Alert,Never,85.0,20.0,7.0,1
+A0864,55,Male,General Surgery,,Confusion,Never,84.0,16.0,9.1,0
+A0865,85,Female,Elderly Care,Emergency,Confusion,,106.0,16.0,7.9,1
+A0866,54,Female,Stroke,Emergency,Pain,,91.0,22.0,1.0,1
+A0867,51,Male,General Surgery,,Alert,Never,89.0,16.0,5.6,0
+A0868,86,Male,Respiratory,Emergency,Confusion,Former,80.0,23.0,2.1,0
+A0869,47,Male,General Surgery,Elective,Confusion,Never,89.0,18.0,12.5,0
+A0870,64,Male,Acute Medical Unit,Transfer,Alert,Former,106.0,11.0,7.6,0
+A0871,92,Male,Respiratory,Emergency,Voice,,108.0,18.0,4.0,1
+A0872,61,Male,Acute Medical Unit,Elective,Alert,Never,88.0,12.0,3.9,0
+A0873,86,Female,Cardiology,Emergency,Alert,Never,81.0,16.0,2.1,0
+A0874,55,Male,Orthopaedics,Elective,Alert,Current,106.0,16.0,1.3,0
+A0875,61,Female,Respiratory,Emergency,Alert,Current,94.0,16.0,4.1,0
+A0876,60,Female,Acute Medical Unit,Elective,Alert,Never,85.0,13.0,11.5,0
+A0877,59,Male,Orthopaedics,Elective,Alert,Current,72.0,18.0,1.3,0
+A0878,71,Male,Respiratory,Emergency,Alert,Current,70.0,14.0,5.6,0
+A0879,37,Male,General Surgery,Emergency,Confusion,Never,95.0,23.0,4.4,0
+A0880,50,Male,Renal,Emergency,Alert,Current,81.0,21.0,5.1,0
+A0881,84,Female,Cardiology,Emergency,Confusion,Former,96.0,14.0,8.6,0
+A0882,59,Male,General Surgery,Emergency,Alert,Never,75.0,18.0,8.4,0
+A0883,73,Male,Respiratory,Emergency,Confusion,Never,83.0,17.0,6.1,0
+A0884,81,Female,Acute Medical Unit,Emergency,Alert,Former,87.0,19.0,5.0,0
+A0885,40,Male,Acute Medical Unit,Emergency,Alert,Never,94.0,17.0,7.1,1
+A0886,22,Female,General Surgery,Emergency,Alert,Never,,18.0,4.0,0
+A0887,88,Female,Respiratory,Emergency,Alert,Former,84.0,14.0,9.5,0
+A0888,49,Female,Orthopaedics,Elective,Alert,Never,86.0,13.0,5.9,0
+A0889,69,Female,Cardiology,Emergency,Alert,Current,77.0,12.0,1.8,0
+A0890,46,Female,Orthopaedics,Emergency,Alert,,86.0,19.0,3.3,0
+A0891,37,Female,Cardiology,Emergency,Pain,,128.0,21.0,12.8,1
+A0892,73,Male,Stroke,Emergency,Alert,,114.0,37.0,4.9,1
+A0893,66,Female,Acute Medical Unit,Emergency,Alert,Never,58.0,16.0,5.1,0
+A0894,58,Female,Cardiology,Emergency,Alert,Former,86.0,17.0,2.4,0
+A0895,30,Female,Acute Medical Unit,Emergency,Pain,,100.0,18.0,4.4,1
+A0896,70,Male,Respiratory,Emergency,Voice,,113.0,21.0,6.4,1
+A0897,89,Male,Respiratory,Emergency,Alert,Former,85.0,14.0,4.8,0
+A0898,53,Male,Stroke,Emergency,Alert,,76.0,16.0,9.1,0
+A0899,70,Male,Acute Medical Unit,Transfer,Alert,,101.0,16.0,2.8,0
+A0900,70,Male,Respiratory,Emergency,Alert,,163.0,16.0,7.2,1
+A0901,45,Male,Cardiology,Elective,Alert,Current,64.0,15.0,6.1,0
+A0902,73,Female,Acute Medical Unit,Emergency,Alert,Current,70.0,18.0,4.2,0
+A0903,82,Male,Elderly Care,Emergency,Alert,Current,95.0,17.0,3.6,0
+A0904,66,Female,Cardiology,Elective,Alert,Former,84.0,17.0,3.9,0
+A0905,81,Female,Orthopaedics,Elective,Unresponsive,,94.0,22.0,6.5,0
+A0906,80,Female,Elderly Care,Emergency,Alert,Never,87.0,17.0,7.1,0
+A0907,83,Female,Cardiology,Transfer,Alert,Never,106.0,16.0,27.9,0
+A0908,99,Male,Cardiology,Emergency,Pain,Never,103.0,16.0,5.6,0
+A0909,63,Female,Acute Medical Unit,Emergency,Alert,Former,84.0,18.0,10.4,0
+A0910,73,Male,Cardiology,Emergency,Alert,Never,107.0,12.0,4.9,0
+A0911,54,Female,Acute Medical Unit,Emergency,Alert,Never,84.0,19.0,16.5,1
+A0912,76,Female,General Surgery,Elective,Confusion,Never,110.0,19.0,6.8,0
+A0913,59,Female,Stroke,Transfer,Alert,Former,85.0,14.0,3.2,0
+A0914,55,Female,Acute Medical Unit,Transfer,Voice,,95.0,17.0,6.0,0
+A0915,79,Female,Elderly Care,Emergency,Voice,Former,86.0,18.0,15.7,1
+A0916,72,Female,Stroke,Emergency,Alert,Never,,19.0,3.8,0
+A0917,52,Female,Acute Medical Unit,Emergency,Alert,Current,85.0,19.0,4.8,0
+A0918,69,Male,General Surgery,Elective,Alert,Never,88.0,21.0,14.6,0
+A0919,54,Female,General Surgery,Emergency,Alert,Never,71.0,19.0,4.3,0
+A0920,54,Female,Elderly Care,Emergency,Alert,,77.0,15.0,1.6,0
+A0921,81,Male,Respiratory,Elective,Pain,,151.0,18.0,3.3,1
+A0922,99,Male,Elderly Care,Emergency,Alert,Former,62.0,22.0,4.3,0
+A0923,51,Male,General Surgery,Emergency,Confusion,Never,83.0,22.0,3.8,0
+A0924,77,Female,Acute Medical Unit,Emergency,Alert,Current,59.0,18.0,8.0,0
+A0925,60,Female,Orthopaedics,Elective,Confusion,Never,84.0,22.0,3.1,0
+A0926,54,Female,Orthopaedics,Elective,Alert,Former,84.0,14.0,4.3,0
+A0927,56,Male,Respiratory,Emergency,Alert,Never,999.0,22.0,2.0,0
+A0928,81,Female,Acute Medical Unit,Emergency,Confusion,Never,66.0,19.0,4.3,0
+A0929,77,Male,Acute Medical Unit,Emergency,Alert,Current,71.0,18.0,8.3,0
+A0930,75,Female,Respiratory,Emergency,Alert,,93.0,16.0,18.2,0
+A0931,55,Male,Respiratory,Emergency,Voice,Current,103.0,15.0,0.8,1
+A0932,71,Male,Acute Medical Unit,Emergency,Alert,Former,80.0,18.0,1.9,0
+A0933,67,Male,Elderly Care,Emergency,Alert,,108.0,22.0,7.3,0
+A0934,76,Male,Cardiology,Emergency,Alert,Never,77.0,16.0,3.5,0
+A0935,54,Male,Acute Medical Unit,Emergency,Alert,Former,95.0,15.0,1.5,0
+A0936,61,Female,Cardiology,Emergency,Alert,Former,96.0,16.0,2.4,0
+A0937,61,Female,Respiratory,Emergency,Alert,,62.0,17.0,9.2,0
+A0938,36,Male,Acute Medical Unit,Emergency,Alert,Current,90.0,14.0,6.1,0
+A0939,40,Male,Acute Medical Unit,Emergency,Alert,Former,89.0,19.0,4.8,0
+A0940,56,Male,General Surgery,Elective,Alert,Current,68.0,15.0,5.5,0
+A0941,48,Female,Acute Medical Unit,Elective,Alert,,106.0,20.0,20.5,0
+A0942,90,Male,Elderly Care,Emergency,Alert,,81.0,13.0,5.7,0
+A0943,72,Male,General Surgery,Elective,Alert,Former,107.0,19.0,4.8,0
+A0944,48,Male,Respiratory,Transfer,Alert,Never,65.0,15.0,5.0,0
+A0945,62,Male,Elderly Care,Emergency,Confusion,Never,81.0,19.0,12.7,0
+A0946,64,Male,Orthopaedics,Elective,Alert,Never,92.0,18.0,2.9,0
+A0947,84,Male,Acute Medical Unit,Transfer,Alert,Current,79.0,17.0,9.5,0
+A0948,49,Female,General Surgery,Elective,Voice,,112.0,18.0,7.9,0
+A0949,67,Female,Acute Medical Unit,Transfer,Alert,Never,78.0,20.0,4.2,0
+A0950,41,Female,Acute Medical Unit,Emergency,Alert,Never,57.0,15.0,6.2,0
+A0951,69,Female,Elderly Care,Emergency,Alert,Never,99.0,20.0,3.1,0
+A0952,72,Male,Orthopaedics,Elective,Pain,Never,99.0,15.0,9.8,0
+A0953,55,Female,General Surgery,Elective,Confusion,Never,90.0,19.0,4.3,0
+A0954,67,Female,Acute Medical Unit,Emergency,Alert,,80.0,13.0,2.9,0
+A0955,62,Male,Acute Medical Unit,,Alert,Former,94.0,17.0,10.9,0
+A0956,68,Female,Cardiology,Emergency,Confusion,Current,99.0,15.0,5.1,0
+A0957,79,Male,Elderly Care,Emergency,Alert,,46.0,14.0,4.1,0
+A0958,74,Male,General Surgery,Elective,Confusion,Never,95.0,16.0,2.5,0
+A0959,60,Female,Acute Medical Unit,Elective,Alert,Former,61.0,15.0,3.5,0
+A0960,68,Female,General Surgery,Emergency,Alert,Former,86.0,12.0,7.9,0
+A0961,58,Male,Acute Medical Unit,Emergency,Confusion,Never,87.0,19.0,3.3,0
+A0962,68,Female,Respiratory,Emergency,Confusion,Current,98.0,17.0,2.8,1
+A0963,48,Male,Acute Medical Unit,Transfer,Unresponsive,,83.0,21.0,6.4,1
+A0964,54,Male,Elderly Care,Emergency,Alert,,81.0,18.0,3.9,0
+A0965,56,Male,Acute Medical Unit,Emergency,Alert,,109.0,14.0,23.9,0
+A0966,69,Male,Cardiology,Emergency,Alert,,113.0,17.0,1.7,1
+A0967,52,Female,General Surgery,Transfer,Confusion,Never,71.0,19.0,6.2,0
+A0968,73,Female,Respiratory,Emergency,Alert,,76.0,20.0,15.5,0
+A0969,51,Male,Acute Medical Unit,Emergency,Alert,Former,66.0,19.0,3.6,0
+A0970,49,Female,Orthopaedics,Transfer,Alert,Never,80.0,16.0,1.5,0
+A0971,49,Female,Respiratory,,Alert,Never,98.0,18.0,3.6,0
+A0972,73,Male,Orthopaedics,Emergency,Alert,Former,96.0,18.0,2.4,0
+A0973,51,Female,Acute Medical Unit,Emergency,Confusion,Former,79.0,19.0,2.8,1
+A0974,80,Female,Elderly Care,,Alert,Current,73.0,12.0,5.9,0
+A0975,43,Female,Acute Medical Unit,Emergency,Alert,Never,63.0,14.0,2.3,0
+A0976,55,Female,Orthopaedics,Emergency,Alert,Never,74.0,17.0,12.5,0
+A0977,67,Female,Cardiology,Elective,Alert,Never,92.0,15.0,10.1,0
+A0978,86,Male,Stroke,Emergency,Confusion,,92.0,17.0,9.8,0
+A0979,66,Female,Elderly Care,Emergency,Confusion,Former,102.0,16.0,3.5,1
+A0980,40,Female,General Surgery,Elective,Alert,Never,95.0,15.0,2.6,0
+A0981,57,Female,General Surgery,Transfer,Alert,Never,97.0,17.0,2.4,0
+A0982,68,Female,Respiratory,Elective,Alert,Never,94.0,21.0,3.5,0
+A0983,55,Female,Acute Medical Unit,Emergency,Alert,Never,72.0,18.0,6.7,0
+A0984,75,Female,Acute Medical Unit,Emergency,Alert,Never,92.0,20.0,7.7,0
+A0985,46,Male,Cardiology,Emergency,Alert,Former,69.0,14.0,15.1,0
+A0986,50,Male,Acute Medical Unit,Emergency,Alert,Never,55.0,22.0,1.2,1
+A0987,60,Female,Acute Medical Unit,Emergency,Alert,,60.0,19.0,15.6,0
+A0988,69,Male,Elderly Care,Emergency,Unresponsive,Former,105.0,19.0,12.7,1
+A0989,77,Female,Stroke,Emergency,Alert,Former,94.0,16.0,3.7,1
+A0990,60,Male,Acute Medical Unit,Emergency,Alert,Former,91.0,19.0,5.1,0
+A0991,76,Male,Elderly Care,Emergency,Alert,Former,61.0,16.0,8.6,0
+A0992,96,Female,Cardiology,Emergency,Alert,Current,79.0,14.0,7.2,0
+A0993,54,Male,Respiratory,Emergency,Alert,Former,93.0,14.0,7.3,0
+A0994,63,Male,Respiratory,Emergency,Alert,,87.0,17.0,16.8,0
+A0995,85,Male,Elderly Care,Emergency,Alert,Current,80.0,20.0,5.0,1
+A0996,35,Female,Burns,Emergency,Alert,Former,74.0,17.0,4.7,0
+A0997,68,Female,Respiratory,Transfer,Alert,Former,72.0,16.0,1.0,0
+A0998,76,Male,Respiratory,Emergency,Alert,Current,85.0,20.0,4.5,0
+A0999,82,Female,Elderly Care,Elective,Confusion,Current,108.0,18.0,2.9,1
+A1000,66,Female,General Surgery,Elective,Alert,Never,108.0,18.0,0.8,0
+A1001,62,Female,Respiratory,Emergency,Alert,Never,61.0,16.0,16.4,0
+A1002,62,Female,Orthopaedics,Elective,Alert,Former,87.0,12.0,8.0,0
+A1003,89,Female,Respiratory,Emergency,Confusion,Former,115.0,19.0,2.5,1
+A1004,63,Male,General Surgery,Elective,Alert,,60.0,15.0,3.1,0
+A1005,72,Male,Acute Medical Unit,Emergency,Alert,Never,85.0,20.0,8.0,0
+A1006,59,Male,Cardiology,Emergency,Alert,,105.0,14.0,1.1,0
+A1007,76,Female,Elderly Care,Transfer,Alert,Former,100.0,14.0,2.5,0
+A1008,74,Male,Acute Medical Unit,Emergency,Alert,,103.0,20.0,5.0,1
+A1009,80,Female,Elderly Care,Emergency,Alert,Never,86.0,19.0,94.4,0
+A1010,58,Female,Stroke,Emergency,Alert,Current,87.0,16.0,6.4,1
+A1011,54,Female,Orthopaedics,Emergency,Voice,Former,119.0,18.0,2.8,1
+A1012,65,Female,Respiratory,Elective,Alert,,88.0,15.0,31.9,0
+A1013,81,Female,Renal,Emergency,Unresponsive,,,24.0,3.0,1
+A1014,73,Male,Respiratory,Emergency,Alert,,101.0,18.0,2.1,1
+A1015,48,Male,General Surgery,Emergency,Alert,,79.0,20.0,7.2,0
+A1016,66,Male,Respiratory,Emergency,Alert,Former,93.0,17.0,13.9,1
+A1017,61,Male,Acute Medical Unit,Emergency,Alert,,101.0,16.0,1.7,0
+A1018,59,Male,Elderly Care,,Alert,Current,94.0,15.0,3.0,0
+A1019,60,Male,Acute Medical Unit,Emergency,Alert,Former,91.0,15.0,6.4,0
+A1020,56,Male,Acute Medical Unit,Emergency,Alert,Current,98.0,18.0,12.0,0
+A1021,77,Male,Elderly Care,Emergency,Pain,,121.0,18.0,5.9,1
+A1022,49,Male,Acute Medical Unit,,Alert,Former,95.0,14.0,7.8,0
+A1023,65,Female,Acute Medical Unit,Emergency,Voice,,103.0,20.0,1.4,1
+A1024,74,Female,Elderly Care,Emergency,Alert,Never,78.0,16.0,1.9,0
+A1025,64,Male,Stroke,Emergency,Alert,Former,87.0,16.0,2.6,0
+A1026,82,Male,Acute Medical Unit,Emergency,Alert,Never,99.0,16.0,4.6,0
+A1027,63,Female,Cardiology,Emergency,Alert,Never,84.0,15.0,3.3,0
+A1028,44,Male,Acute Medical Unit,Elective,Alert,Never,86.0,16.0,5.8,0
+A1029,81,Female,Respiratory,Emergency,Alert,Former,92.0,16.0,3.8,0
+A1030,77,Female,Acute Medical Unit,Transfer,Alert,Former,66.0,20.0,2.7,0
+A1031,54,Male,Orthopaedics,Emergency,Alert,Former,74.0,19.0,7.5,0
+A1032,61,Male,Respiratory,Emergency,Pain,Never,155.0,19.0,13.9,1
+A1033,58,Female,Acute Medical Unit,Emergency,Alert,Former,106.0,15.0,5.7,0
+A1034,52,Male,General Surgery,Elective,Alert,Never,84.0,18.0,3.0,0
+A1035,51,Female,Cardiology,Emergency,Alert,Former,103.0,17.0,2.7,0
+A1036,47,Male,Acute Medical Unit,,Alert,Current,91.0,20.0,4.1,0
+A1037,86,Female,Acute Medical Unit,Emergency,Voice,,98.0,17.0,7.2,0
+A1038,59,Female,Respiratory,Emergency,Alert,Current,90.0,18.0,2.0,0
+A1039,59,Female,Orthopaedics,Emergency,Alert,,86.0,14.0,3.5,0
+A1040,66,Female,General Surgery,Emergency,Alert,Current,85.0,19.0,5.2,0
+A1041,51,Female,General Surgery,Emergency,Confusion,,89.0,19.0,5.0,0
+A1042,52,Female,Acute Medical Unit,Emergency,Alert,Current,75.0,19.0,3.2,0
+A1043,48,Male,Acute Medical Unit,Emergency,Alert,Former,101.0,17.0,5.7,0
+A1044,73,Male,Cardiology,Emergency,Alert,Never,82.0,19.0,4.3,0
+A1045,63,Female,Acute Medical Unit,Emergency,Voice,,86.0,20.0,2.0,0
+A1046,71,Male,General Surgery,Elective,Alert,Current,74.0,17.0,6.8,0
+A1047,74,Female,Elderly Care,Emergency,Alert,,89.0,20.0,7.9,0
+A1048,73,Male,General Surgery,Emergency,Alert,Current,89.0,20.0,8.7,0
+A1049,62,Male,Acute Medical Unit,Emergency,Alert,Current,82.0,20.0,9.3,1
+A1050,59,Female,Orthopaedics,Transfer,Alert,Former,68.0,19.0,6.1,0
+A1051,66,Male,Acute Medical Unit,Emergency,Alert,Never,90.0,16.0,3.3,0
+A1052,61,Female,General Surgery,Elective,Alert,Current,72.0,15.0,4.4,0
+A1053,76,Male,Stroke,Emergency,Pain,,109.0,20.0,5.5,1
+A1054,51,Male,Acute Medical Unit,Emergency,Alert,,58.0,14.0,4.0,0
+A1055,78,Female,Elderly Care,Emergency,Pain,,116.0,19.0,8.2,1
+A1056,58,Male,Acute Medical Unit,Emergency,Voice,,103.0,20.0,1.9,1
+A1057,88,Female,Elderly Care,Emergency,Alert,,80.0,17.0,8.6,0
+A1058,81,Male,Respiratory,Transfer,Alert,Former,78.0,17.0,5.2,0
+A1059,67,Male,General Surgery,Transfer,Alert,Never,78.0,18.0,3.9,0
+A1060,76,Male,Cardiology,Emergency,Voice,Current,105.0,23.0,3.4,1
+A1061,79,Male,Respiratory,,Confusion,Never,89.0,18.0,2.1,0
+A1062,94,Female,Elderly Care,Emergency,Alert,Never,104.0,13.0,4.0,0
+A1063,61,Male,Respiratory,Emergency,Alert,,79.0,18.0,4.5,0
+A1064,65,Female,Elderly Care,Emergency,Alert,Current,95.0,18.0,8.8,1
+A1065,62,Female,Acute Medical Unit,Emergency,Alert,Never,103.0,19.0,3.0,0
+A1066,84,Female,Respiratory,Emergency,Alert,Former,79.0,23.0,19.1,1
+A1067,45,Male,Acute Medical Unit,Emergency,Alert,Never,92.0,13.0,3.3,1
+A1068,56,Female,Cardiology,Transfer,Alert,,72.0,15.0,2.4,0
+A1069,61,Female,Acute Medical Unit,Emergency,Alert,Current,57.0,18.0,2.2,0
+A1070,60,Male,Cardiology,Transfer,Voice,,100.0,21.0,1.7,0
+A1071,69,Female,General Surgery,Elective,Alert,,87.0,19.0,4.8,0
+A1072,66,Male,Orthopaedics,Elective,Confusion,Current,97.0,22.0,3.9,0
+A1073,67,Male,General Surgery,Elective,Alert,Former,70.0,15.0,8.1,0
+A1074,77,Female,Stroke,Emergency,Alert,Never,87.0,19.0,5.6,1
+A1075,78,Female,Stroke,Emergency,Confusion,Former,71.0,19.0,5.6,0
+A1076,52,Male,Respiratory,Emergency,Alert,Former,77.0,21.0,4.1,0
+A1077,71,Female,Elderly Care,Emergency,Alert,Never,100.0,16.0,3.6,1
+A1078,37,Female,Acute Medical Unit,Emergency,Alert,Current,66.0,17.0,14.9,0
+A1079,58,Male,Cardiology,Emergency,Alert,Current,94.0,16.0,6.3,1
+A1080,54,Male,Acute Medical Unit,Emergency,Alert,Former,68.0,16.0,3.5,0
+A1081,83,Female,Elderly Care,Emergency,Alert,,89.0,21.0,6.2,0
+A1082,59,Female,Stroke,Emergency,Alert,Former,71.0,18.0,2.1,0
+A1083,88,Male,Cardiology,Emergency,Confusion,Former,75.0,21.0,9.9,0
+A1084,94,Male,Elderly Care,Emergency,Alert,Never,61.0,21.0,2.2,0
+A1085,67,Female,Elderly Care,Emergency,Alert,Former,89.0,17.0,7.6,0
+A1086,57,Female,Elderly Care,,Alert,Current,62.0,19.0,3.7,0
+A1087,48,Female,Cardiology,Transfer,Alert,,86.0,20.0,13.3,0
+A1088,83,Male,Elderly Care,Emergency,Confusion,Former,87.0,20.0,6.4,1
+A1089,42,Male,General Surgery,Elective,Alert,Never,58.0,21.0,7.6,0
+A1090,57,Male,Acute Medical Unit,Emergency,Alert,,79.0,19.0,1.7,0
+A1091,67,Male,Acute Medical Unit,Emergency,Alert,,71.0,13.0,2.9,0
+A1092,71,Male,Respiratory,Emergency,Alert,Never,89.0,21.0,6.6,0
+A1093,76,Male,Cardiology,Emergency,Alert,,86.0,11.0,3.8,0
+A1094,51,Male,Respiratory,Emergency,Alert,Former,102.0,19.0,4.3,0
+A1095,74,Female,Respiratory,Emergency,Alert,Never,88.0,21.0,26.8,1
+A1096,69,Female,Acute Medical Unit,Emergency,Alert,Current,85.0,14.0,2.2,0
+A1097,79,Male,Cardiology,Emergency,Alert,,90.0,14.0,2.7,0
+A1098,77,Male,Cardiology,Transfer,Alert,,88.0,18.0,3.3,0
+A1099,64,Female,Elderly Care,Emergency,Confusion,Never,87.0,21.0,3.2,0
+A1100,28,Male,General Surgery,Elective,Alert,,91.0,18.0,5.0,0
+A1101,62,Female,General Surgery,,Alert,Former,87.0,14.0,2.9,0
+A1102,86,Male,Cardiology,Emergency,Confusion,Never,96.0,23.0,5.2,1
+A1103,51,Female,Acute Medical Unit,Transfer,Alert,Never,68.0,19.0,2.6,0
+A1104,57,Female,Respiratory,Emergency,Alert,Former,83.0,14.0,3.6,0
+A1105,81,Male,Elderly Care,Elective,Alert,Never,95.0,20.0,9.7,0
+A1106,92,Male,Elderly Care,Emergency,Alert,Former,92.0,11.0,4.2,0
+A1107,66,Male,General Surgery,Emergency,Confusion,Current,99.0,20.0,2.4,0
+A1108,65,Female,Elderly Care,Transfer,Alert,Former,93.0,12.0,8.4,0
+A1109,61,Male,Respiratory,Emergency,Alert,Never,89.0,19.0,3.5,0
+A1110,54,Female,Acute Medical Unit,Emergency,Alert,Never,97.0,18.0,5.3,0
+A1111,67,Female,Acute Medical Unit,Emergency,Alert,Former,73.0,21.0,4.2,0
+A1112,74,Female,Orthopaedics,Emergency,Alert,Never,,18.0,5.5,0
+A1113,69,Female,Elderly Care,Emergency,Alert,Former,87.0,16.0,3.7,0
+A1114,51,Male,Acute Medical Unit,Emergency,Pain,,99.0,18.0,4.2,0
+A1115,77,Male,Stroke,Elective,Alert,Former,,15.0,5.7,0
+A1116,65,Male,Cardiology,Transfer,Alert,Never,87.0,20.0,2.7,0
+A1117,48,Female,General Surgery,Elective,Confusion,Never,74.0,19.0,27.1,0
+A1118,62,Female,Cardiology,Transfer,Alert,Never,73.0,19.0,2.4,0
+A1119,87,Male,Elderly Care,Transfer,Alert,Never,96.0,18.0,8.1,0
+A1120,56,Female,Acute Medical Unit,Emergency,Alert,Former,74.0,14.0,5.2,0
+A1121,72,Male,Stroke,Emergency,Confusion,Never,101.0,19.0,4.0,1
+A1122,51,Female,Acute Medical Unit,,Alert,Never,93.0,16.0,3.7,0
+A1123,87,Male,Elderly Care,Emergency,Alert,Never,91.0,12.0,9.3,1
+A1124,73,Male,Elderly Care,Emergency,Alert,Never,86.0,19.0,14.2,0
+A1125,64,Female,Acute Medical Unit,Transfer,Alert,Never,102.0,16.0,1.7,0
+A1126,75,Female,Stroke,Emergency,Alert,Former,91.0,16.0,25.4,0
+A1127,61,Male,Orthopaedics,Elective,Confusion,Former,106.0,20.0,6.8,0
+A1128,52,Male,Renal,Transfer,Alert,Never,97.0,17.0,2.3,0
+A1129,65,Female,Respiratory,Emergency,Alert,Current,83.0,17.0,12.7,1
+A1130,62,Female,Orthopaedics,Elective,Alert,Former,81.0,22.0,8.4,0
+A1131,80,Male,Cardiology,Elective,Alert,Never,84.0,18.0,3.7,0
+A1132,52,Female,Renal,Emergency,Alert,,91.0,20.0,26.2,0
+A1133,76,Male,Cardiology,Transfer,Confusion,Current,77.0,11.0,4.7,0
+A1134,81,Female,Respiratory,Elective,Alert,Former,64.0,17.0,9.1,0
+A1135,75,Male,Cardiology,Emergency,Alert,,83.0,19.0,3.9,0
+A1136,88,Male,Elderly Care,Transfer,Pain,,84.0,20.0,3.1,0
+A1137,76,Female,Elderly Care,Emergency,Alert,Former,75.0,21.0,10.0,1
+A1138,72,Male,Respiratory,Emergency,Alert,Never,88.0,15.0,7.4,0
+A1139,72,Male,Respiratory,Emergency,Voice,,101.0,21.0,34.6,1
+A1140,48,Female,Cardiology,Emergency,Alert,Former,103.0,17.0,14.8,0
+A1141,63,Female,Respiratory,,Alert,Current,70.0,14.0,6.6,0
+A1142,65,Male,Elderly Care,,Pain,Never,999.0,21.0,9.8,1
+A1143,38,Male,Acute Medical Unit,Emergency,Alert,Current,93.0,16.0,12.7,0
+A1144,79,Female,Elderly Care,Emergency,Alert,Former,67.0,19.0,7.2,1
+A1145,63,Female,General Surgery,Emergency,Alert,,91.0,17.0,6.9,0
+A1146,59,Female,Respiratory,Emergency,Alert,Current,62.0,20.0,2.2,0
+A1147,67,Female,Acute Medical Unit,Emergency,Alert,Current,71.0,15.0,3.6,0
+A1148,68,Female,Acute Medical Unit,Emergency,Alert,Former,93.0,16.0,3.3,0
+A1149,81,Female,Elderly Care,Emergency,Alert,Current,65.0,12.0,8.2,0
+A1150,62,Male,Cardiology,Emergency,Pain,,101.0,23.0,2.2,0
+A1151,76,Male,Cardiology,Transfer,Confusion,Never,95.0,13.0,3.1,0
+A1152,82,Female,Acute Medical Unit,Emergency,Alert,Former,67.0,21.0,9.7,0
+A1153,43,Male,Cardiology,Emergency,Alert,,89.0,17.0,14.9,0
+A1154,76,Female,Respiratory,Emergency,Alert,,97.0,15.0,3.3,1
+A1155,47,Female,Acute Medical Unit,Emergency,Alert,Former,82.0,19.0,4.1,0
+A1156,76,Female,Orthopaedics,Emergency,Alert,Never,81.0,18.0,7.3,0
+A1157,80,Female,Cardiology,Emergency,Alert,Former,99.0,12.0,5.4,0
+A1158,56,Female,Acute Medical Unit,Emergency,Alert,,67.0,19.0,9.0,0
+A1159,56,Male,Acute Medical Unit,Emergency,Voice,,105.0,25.0,8.8,0
+A1160,61,Female,Acute Medical Unit,Emergency,Alert,Current,84.0,12.0,1.7,0
+A1161,68,Male,Respiratory,Emergency,Alert,Never,91.0,18.0,1.9,0
+A1162,59,Male,Acute Medical Unit,Emergency,Alert,Former,83.0,21.0,6.8,0
+A1163,94,Male,Elderly Care,Emergency,Confusion,,76.0,18.0,18.7,1
+A1164,42,Female,Acute Medical Unit,Elective,Alert,Former,90.0,12.0,5.9,0
+A1165,55,Male,Acute Medical Unit,Elective,Alert,Never,89.0,17.0,1.5,0
+A1166,76,Female,Cardiology,Emergency,Alert,Never,77.0,19.0,2.7,1
+A1167,64,Male,Respiratory,Emergency,Alert,Current,64.0,15.0,4.9,0
+A1168,65,Female,Cardiology,Emergency,Voice,,99.0,13.0,6.1,0
+A1169,70,Female,Stroke,Emergency,Pain,,106.0,16.0,5.5,1
+A1170,91,Male,Elderly Care,Emergency,Alert,Current,63.0,13.0,11.8,0
+A1171,75,Female,Respiratory,Elective,Alert,Current,69.0,20.0,5.4,1
+A1172,42,Female,General Surgery,Emergency,Alert,Never,54.0,15.0,1.8,0
+A1173,47,Male,Acute Medical Unit,Emergency,Confusion,Never,94.0,18.0,7.3,0
+A1174,75,Male,Elderly Care,Emergency,Alert,Never,86.0,18.0,1.3,0
+A1175,61,Male,Renal,Transfer,Alert,Former,77.0,12.0,1.7,0
+A1176,69,Female,General Surgery,Elective,Pain,,110.0,20.0,1.5,1
+A1177,57,Female,General Surgery,Elective,Voice,Never,123.0,18.0,1.4,1
+A1178,90,Female,Stroke,Transfer,Confusion,Never,82.0,18.0,33.9,0
+A1179,90,Male,Cardiology,Transfer,Alert,Never,71.0,17.0,5.8,0
+A1180,51,Male,Acute Medical Unit,Emergency,Alert,,99.0,15.0,1.2,0
+A1181,69,Female,Respiratory,Emergency,Voice,,71.0,18.0,10.3,0
+A1182,80,Female,Cardiology,Elective,Alert,Former,55.0,17.0,4.4,0
+A1183,83,Male,Elderly Care,Emergency,Voice,,107.0,17.0,5.4,1
+A1184,84,Male,Elderly Care,Emergency,Confusion,Current,88.0,22.0,11.6,1
+A1185,56,Female,Acute Medical Unit,Emergency,Alert,Former,67.0,20.0,2.2,0
+A1186,73,Female,Elderly Care,Emergency,Alert,Former,77.0,18.0,4.5,1
+A1187,64,Male,Acute Medical Unit,Emergency,Alert,,83.0,16.0,2.2,0
+A1188,73,Male,Acute Medical Unit,Emergency,Alert,Never,81.0,16.0,4.3,0
+A1189,53,Male,Orthopaedics,Elective,Pain,,107.0,23.0,6.0,0
+A1190,78,Male,Elderly Care,Emergency,Alert,Former,77.0,17.0,4.5,0
+A1191,90,Female,Cardiology,Emergency,Voice,,73.0,17.0,4.7,0
+A1192,59,Male,Acute Medical Unit,Emergency,Alert,Former,63.0,18.0,3.8,0
+A1193,82,Female,Elderly Care,Emergency,Voice,,110.0,21.0,3.3,1
+A1194,78,Female,Cardiology,Elective,Alert,Current,75.0,18.0,3.5,0
+A1195,75,Male,Cardiology,Emergency,Alert,Former,76.0,14.0,4.3,0
+A1196,72,Male,Stroke,Emergency,Confusion,Current,56.0,15.0,3.3,0
+A1197,78,Male,Elderly Care,,Voice,,77.0,18.0,3.8,0
+A1198,98,Female,Elderly Care,Emergency,Alert,Former,85.0,14.0,4.2,0
+A1199,55,Male,Orthopaedics,Emergency,Alert,Never,76.0,14.0,8.2,0
+A1200,64,Male,Elderly Care,Emergency,Alert,Former,85.0,19.0,7.0,0
